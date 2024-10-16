@@ -1,603 +1,424 @@
-
-## Components
-
-## 27 Coin Tokens
-
-## 27 Compass Tokens
-
-## Main Board, Bird Temple Side (Snake Temple On Other Side)
-
-## 4 Double-Sided Player Boards
-
-## 16 Idol Tiles
-
-## 24 Temple Tiles
-
-## 1 Double-Sided Supply Board
-
-## 15 Guardian Tiles
-
-## 1 Sticker Sheet
-
-1 notebook token and 1 magnifying glass token in each color
-
-## 10 Level
-
-## Site Tiles
-
-## 16 Tablet Tokens
-
-## 4 Basic Cards In Each Color
-
-## 6 Level
-
-## Site Tiles
-
-## 12 Arrowhead Tokens
-
-## 2 Archaeologist Figures In Each Color
-
-## 19 Fear Cards
-
-## 12 Assistant Tiles
-
-## 9 Jewel Tokens
-
-## 18 Research Bonus Tiles
-
-## 40 Item Cards
-
-## 1 Moon Staff
-
-1 starting player marker
-
-## 5 Blocking Tiles
-
-## 10 Reserve Tiles
-
- artifact cards
-
- pad of scoring sheets
-
- rival action tiles used in solo variant
-
 Day 3 – After two fruitless days of searching empty ocean, a smudge on the horizon, barely discernible among the sparkling waves, gave me a glimmer of hope. As we drew nearer, a flock of brilliant scarlet birds flew toward our vessel, chirping and whistling as though in welcome. Consulting her charts, our navigator assured us that the island was indeed as yet uncharted. Her words supported a hypothesis we all silently shared – those rugged plateaus, that verdant jungle!
 
-– this could be Arnak!
+       – this could be Arnak!
 
-## Tutorial Video
 
-cge.as/arv
+## Setup (Page 4)
 
-## Main Board
+### Main Board (Page 4)
 
-Use the side with the Bird Temple for your first game.
-
-## Setup
-
-3
+Use the side with the **Bird Temple** for your first game.
+> Bird Temple: A red temple shaped like a bird
 
 The Snake Temple side follows special rules which are explained on page 19.
 
-2
-
-6
-
-10
-
-11
-
-1
-
-5
-
-4
-
-8
-
-7
-
-## Card Row
+### Card Row (Page 4)
 
 The card row offers items and artifacts you can get during play. Be sure they are divided into separate decks. They have the same backs, but they can be easily distinguished by their faces and by the icon in the upper right corner.
 
-1
+1. **Artifacts.** Shuffle the artifacts deck face down and place it on the marked space.
+> Artifacts is represented by a blue jug.
 
-Artifacts. Shuffle the artifacts deck face down and place it on the marked space.
+2. **Fear.** Place the *Fear* cards on the marked space. They are all the same, so place them face up.
+> Fear is represented by a demon's face with fiery eyes.
 
-2
+3. **Items.** Shuffle the items deck face down and place it on the marked space.
+> Items is represented by a hand trowel.
 
-Fear. Place the Fear cards on the marked space. They are all the same, so place them face up.
+4 **Moon Staff.** Place the moon staff in the card row, as shown, indicating it is round I.
 
-3
+5. **Deal 1 artifact** to the card row, face up, to the left of the moon staff.
 
-Items. Shuffle the items deck face down and place it on the marked space.
+6. **Deal 5 items** to the card row, face up, to the right of the moon staff.
 
-4 Moon Staff. Place the moon staff in the card row, as shown, indicating it is round I.
+### Island (Page 4)
 
-5 Deal 1 artifact to the card row, face up, to the left of the moon staff.
+**Idol Tiles.** Mix these up and randomly assign them to sites.
+> Idol Tiles is represented by a golden idol seated in lotus position.
 
-6 Deal 5 items to the card row, face up, to the right of the moon staff.
+7. **Level I sites.** Each site in region **I** gets one face-up idol.
 
-## Island
+8. **Level II sites.** Each site in region **II** gets one face-up idol and one face-down idol, as depicted on the board.
 
-Idol Tiles. Mix these up and randomly assign them to sites. 7 Level Level as depicted on the board.
+**Blocking Tiles**
 
-## Sites. Each Site In Region
+9. Some action spaces may need to be blocked depending on the number of players. Treat blocked spaces as though they were not printed on the board. They will be unavailable for the entire game.
 
-gets one face-up idol.
+In a **four-player game**, do not use the blocking tiles. (This page illustrates a three-player game.)
 
-## Sites. Each Site In Region
+In a **three-player game**, block 3 (an icon featuring a pair of boots) spaces. Mix up the blocking tiles face down and flip over 3 at random. Each corresponds to one (an icon featuring a tent) site.
+> a blocking tile that illustrates an ocean wave.
+> a blocking tile that illustrates compass. Compasses represent time and energy spent exploring the island.
+> a blocking tile that illustrates an ocean wave.
+> a blocking tile illustrating arrowhead. Arrowheads represent remnants of weapons you discover.
+> a blocking tile representing Jewel. Jewels are mysterious talismans of the bird god Ara-Anu. They are hard to find, 
+but often essential for completing your research into the mysteries of Arnak.
 
-gets one face-up idol and one face-down idol,
+Use the 3 tiles to block the (an icon featuring a pair of boots) space at each of those sites. (On the board, place them face down.) Return the 2 unused tiles to the box.
 
-8
+In a **two-player game**, block all 5 (an icon featuring a pair of boots) spaces. Each site will have space for only one archaeologist.
 
-## Blocking Tiles
 
-9 Some action spaces may need to be blocked depending on the number of players. Treat blocked spaces as though they were not printed on the board. They will be unavailable for the entire game.
+### Research Track (Page 5)
 
-In a four-player game, do not use the blocking tiles. (This page illustrates a three- player game.)
+10. **Temple Tiles.** Make stacks of temple tiles on the temple. Each stack has as many tiles as there are players. As shown, 11-point tiles have one stack at the top, 6-point tiles have two stacks in the middle, 2-point tiles have three stacks at the bottom. Return unused tiles to the box.
+> Diagram of temple tile stacking
 
-In a three-player game, block 3 and flip over 3 at random. Each corresponds to one
+**Research Bonus Tiles.** Shuffle the tiles face down and deal them to:
 
-spaces. Mix up the blocking tiles face down
-
-## Site.
-
-Use the 3 tiles to block the them face down.) Return the 2 unused tiles to the box.
-
-space at each of those 3 sites. (On the board, place
-
-In a two-player game, block all  one archaeologist.
-
-spaces. Each site will have space for only
-
-## Research Track 10
-
-Temple Tiles. Make stacks of temple tiles on the temple. Each stack has as many tiles as there are players. As shown, 11-point tiles have one stack at the top, 6-point tiles have two stacks in the middle, 2-point tiles have three stacks at the bottom. Return unused tiles to the box.
-
-12
-
-Research Bonus Tiles. Shuffle the tiles face down and deal them to:
-
-## 11 Lost Temple Bonus Stack.
-
+11. **Lost Temple Bonus Stack.**
 Make a stack with as many research bonus tiles as there are players. Place this stack face down at the top of the research track.
 
-12 Bonus Tile Spaces. Most spaces on the research track get 1 bonus tile.
+12. **Bonus Tile Spaces.** Most spaces on the research track get 1 bonus tile.
 
-Spaces marked like this get a tile only in a four-player game.
+Spaces marked like this get a tile only in a **four-player game.**
 
-These spaces get a tile only in a three- or four-player game.
+These spaces get a tile only in a **three- or four-player game.**
 
 Distribute research bonus tiles randomly to the appropriate spaces, then turn them face up. Return unused tiles to the box.
 
-18
+### Supply Board (Page 5)
 
-17
+13. **Resources.** Place all resource tokens on the supply board.
 
-16
+14. **Level I Site Tiles.** Shuffle the site tiles marked **I** and place them face down on the supply board.
 
-15
+15. **Guardian Tiles.** Shuffle the guardians and place them face down on the supply board.
 
-9
+16. **Level II Site Tiles.** Shuffle the site tiles marked **II** and place them face down on the supply board.
 
-14
+17. **Assistant Tiles.** Turn all assistants silver side up. Shuffle them into 3 random stacks of 4 tiles each. Place them on the supply board.
 
-## One-Player Game
+18. **Research Tokens.** Players’ research tokens also go on the supply board, as will be explained on the next page.
 
-13
 
-These components are used only in the solo variant. The solo variant uses the 2-player setup. Full rules are on page 20.
-
-Supply Board 13 Resources. Place all resource tokens on the supply board.
-
-## 14 Level
-
-## Site Tiles. Shuffle The Site And Place Them
-
-tiles marked face down on the supply board.
-
-15
-
-Guardian Tiles. Shuffle the guardians and place them face down on the supply board.
-
-16 Level marked the supply board.
-
-Site Tiles. Shuffle the site tiles and place them face down on
-
-17 Assistant Tiles. Turn all assistants silver side up. Shuffle them into 3 random stacks of 4 tiles each. Place them on the supply board.
-
-18 Research Tokens. Players' research tokens also go on the supply board, as will be explained on the next page.
-
-## Player Setup
+## Player Setup (Page 6)
 
 Day 6 – We found a good place to pitch our tents, with fresh water nearby. Our quartermaster has ensured we will be well supplied. For the fortnight, this shall be our home.
 
-Each player should choose a color and take the player board, research tokens, 2 archaeologist figures, and 4 basic cards in that color.
+Each player should choose a color and take the **player board, research tokens, 2 archaeologist figures, and 4 basic cards** in that color.
 
-## Player Board
+### Player Board (Page 6)
 
 Keep your player board in front of you and set the archaeologist figures on it.
 
-spaces for using idols you discover
-
-rewards you can get from using idols
-
-spaces for assistants you recruit
-
-## Your Deck
-
-## Your Archaeologists
-
 Thematically, your archaeologists are in the tents and your resource tokens are in the supply crates, but you can organize this space however you want.
 
-## Research Tokens
+### Research Tokens (Page 6)
 
 Your research tokens go on a starting space below the research track. The first time you research, you will use your magnifying glass, so place it atop the notebook.
 
-## Your Starting Deck
+### Your Starting Deck (Page 6)
 
-Each player has their own deck, and all decks start the same. Your deck should have the 4 basic cards in your color, plus 2 Fear cards:
-
-## 2 Funding Cards
-
-## 2 Exploration Cards
-
-## 2 Fear Cards
+Each player has their own deck, and all decks start the same. Your deck should have the 4 basic cards in your color, plus 2 *Fear* cards:
+> 2 Funding Cards.
+> 2 Exploration Cards.
+> 2 Fear Cards.
 
 Shuffle your deck and place it face down on your player board.
 
-## Play Order
+### Play Order (Page 6)
 
-The starting player is the one who most recently traveled to a place they had never visited before. Give this player the starting player marker. Play will proceed clockwise.
+The starting player is the one who most recently traveled to a place they had never visited before. Give this player the **starting player marker.** Play will proceed clockwise.
+> The starting player marker is illustrated by a clock.
 
-## Starting Resources
+### Starting Resources (Page 6)
 
 Starting resources depend on play order, as shown.
 
-## Player 1:
+**Player 1:** (2 coins)
 
-## Player 2:
+**Player 2:** (1 coin and 1 compass)
 
-## Player 3:
+**Player 3:** (2 coins and 1 compass)
 
-Player :
+**Player 4:** (1 coin and 2 compasses)
 
-Recommended Table Layout Player boards can sit around the main board like this.
 
-## Gameplay
+## Gameplay (Page 7)
 
 Day 7 – How strange it is to be here, to finally see what we have strived so long to find! I feel, sometimes, as though we are encamped on sacred ground. What wonders lie ahead? What dangers? We have no inkling of the secrets this island holds, but we vowed to unveil them, and that we shall do!
 
-## Goal Of The Game
+### Goal Of The Game (Page 7)
 
 Your task is to lead an expedition to explore the uncharted island of Arnak and discover the secrets of a vanished civilization.
 
 You will equip your expedition with useful items, search the jungles for mysterious artifacts and intriguing archaeological sites, struggle to overcome the guardians of those sites, and – perhaps most importantly – piece together the fragments of Arnak's ruins into a coherent body of research that could lead to the discovery of the Lost Temple.
 
-Your expedition's various accomplishments are worth points which will be added up at the end of the game to determine which player has led the most successful expedition.
+1. Your expedition's various accomplishments are worth points which will be added up at the end of the game to determine which player has led the most successful expedition.
 
-## Game Overview
+### Game Overview (Page 7)
 
-The game is played over 5 rounds.
+**The game is played over 5 rounds.**
 
 Players take turns choosing various actions that help them uncover the secrets of the island. Over the course of the game, more of the island will be explored and more actions will become available. Actions can earn you resources, opportunities, and points.
 
-Each round proceeds as follows:
+**Each round proceeds as follows:**
 
-1. Draw. All players draw from their decks until they have a hand of 5 cards.
+1. **Draw.** All players draw from their decks until they have a hand of **5 cards**.
 
-2. Take turns. The player with the starting player marker starts. Players take turns clockwise around the table. You are limited to one main action on your turn, plus an unlimited number of free actions.
+2. **Take turns.** The player with the starting player marker starts. Players take turns clockwise around the table. You are limited to **one main action** on your turn, plus an **unlimited number of free actions**.
 
-3. Pass. On your turn, you may pass to indicate you are done playing for the remainder of the round. The other players continue taking turns until all players have passed.
+3. **Pass.** On your turn, you may pass to indicate you are done playing for the remainder of the round. The other players continue taking turns until all players have passed.
 
-4. Set up for the next round. All cards in your play area are shuffled and returned to the bottom of your deck. The board is set up for the next round. The starting player marker is passed to the left.
+4. **Set up for the next round.** All cards in your play area are shuffled and returned to the **bottom of your deck**. The board is set up for the next round. **The starting player marker is passed to the left.**
 
-5. Move the moon staff. At the end of each round, move the
+5. **Move the moon staff.** At the end of each round, move the moon staff to mark the passage of time. As the moon waxes, the expeditions explore the island, acquire useful items and artifacts, and research the legends of Arnak. After 5 rounds, the moon is full and it is time to see who led the most successful expedition.
 
-moon staff to mark the passage of time. As the moon waxes, the expeditions explore the island, acquire useful items and artifacts, and research the legends of Arnak. After 5 rounds, the moon is full and it is time to see who led the most successful expedition.
+##### RESOURCES (Page 7)
 
-Resources Coins expedition. They are used to buy items.
+**Coins** represent funding for your expedition. They are used to buy items.
 
-## Represent
+**Compasses** represent time and energy spent exploring the island. Thus, they are used to discover artifacts and new archaeological sites.
 
-## Funding
+**Tablets** represent ancient texts you can decipher. These texts might teach you how to use the artifacts you find.
 
-## For Your
+**Arrowheads** represent remnants of weapons you discover. They are often necessary for overcoming the guardians of the island.
 
-Compasses represent time and energy spent exploring the island. Thus, they are used to discover artifacts and new archaeological sites.
+**Jewels** are mysterious talismans of the bird god Ara-Anu. They are hard to find, but often essential for completing your research into the mysteries of Arnak.
 
-Tablets represent ancient texts you can decipher. These texts might teach you how to use the artifacts you find.
 
-Arrowheads represent remnants of weapons you discover. They are often necessary for overcoming the guardians of the island.
-
-Jewels are mysterious talismans of the bird god Ara-Anu. They are hard to find, but often essential for completing your research into the mysteries of Arnak.
-
-## Your Turn
+## Your Turn (Page 8)
 
 Day 8 – Though our eagerness to begin is mixed with a certain amount of trepidation, now is not the time to let our courage fail. If there are dangers, well, we came here to confront them. To the jungle then, and no delay!
 
 On your turn, you have several options. Your choices will depend on the cards in your hand and the situation on the game board.
 
-## Main Actions
+### Main Actions (Page 8)
 
-## Choose One Of These Actions As The Main Action For Your Turn:
+Choose one of these actions as the main action for your turn:
 
-Dig at a Site (page 9)
+- DIG AT A SITE (page 9)
 
-## Discover A New Site (Page 10)
+- DISCOVER A NEW SITE (Page 10)
 
-Overcome a Guardian (page 11)
+- OVERCOME A GUARDIAN (page 11)
 
-Buy a Card (page 12)
+- BUY A CARD (page 12)
 
-Play a Card (page 13)
+- PLAY A CARD (page 13)
 
-Research (page 14)
+- RESEARCH (page 14)
 
-Pass (page 17)
+- PASS (page 17)
 
-You always perform exactly one main action per turn. You may also be able to perform one or more free actions, as explained below.
+You always perform exactly **one main action** per turn. You may also be able to perform **one or more free actions**, as explained below.
 
-## Your Hand
+#### Your Hand (Page 8)
 
-You can play a card either for its travel value or its effect but not both.
+**You can play a card either for its travel value or its effect but not both.**
 
-Travel Value You can use this travel value to pay for certain actions – like the Dig at a
+##### TRAVEL VALUE (Page 8)
+You can use this travel value to pay for certain actions – like the **Dig at a Site** action on the facing page.
+> A card that has a small visual representation of a ship. 
 
-## Site Action On The Facing Page.
+   ##### OR
 
-## Or
+##### EFFECT (Page 8)
+You can play the card for its effect.
+This effect means you take a (coin) token from the supply board.
+> A coin card with a lightening bolt by the left.
 
-Effect You can play the card for its effect.
-
-This effect means you token from take a
-
-## The Supply Board.
-
-## Free Actions
-
-Fear A Fear card has no effect. However, it can be used for its travel value.
-
-Your Play Area When you use a card, it goes face up on the table in front of you, next to your player board. This space is called your play area.
+##### FREE ACTIONS (lightening bolt icon) (Page 8)
 
 An effect with this icon does not count as the main action of your turn.
 
-On your turn, you can play as many free actions as you like. They can be played before, after, and even during your main action.
+On your turn, you can play as many free actions as you like. They can be played **before, after, and even during your main action**.
 
-## Player Board
+##### FEAR (icon depicting a demon's face with fiery eyes) (Page 8)
 
-## Play Area
+A *Fear* card has no effect. However, it can be used for its (an icon depicting a single boot) travel value.
+
+##### YOUR PLAY AREA (Page 8)
+
+When you use a card, it goes face up on the table in front of you, next to your player board. This space is called your play area.
 
 Your play area is basically a spread-out discard pile. Cards accumulate from turn to turn. They are not recycled into your deck until the end of the round.
 
-## Dig At A Site
+
+## Dig at a Site (Page 9)
 
 Day 9 – We brought a ladder to the site and climbed to get a better look at the carvings. As we had hoped, it was writing! If such wonders lie so close to camp, who knows what we shall find once we truly begin to explore!
 
-As your main action for your turn, you can send one of your archaeologists to dig at any of the 5 sites after they have been discovered.
+As your main action for your turn, you can send one of your archaeologists to dig at any of the 5 sites. You will also be able to dig at **I** and **II** sites after they have been discovered.
 
-sites. You will also be able to dig at
+### To Dig at a Site (Page 9)
 
-## And
+1. **Pay the travel cost** depicted on the space to which you want to send your archaeologist. The space must be unoccupied. (That is, it must have no archaeologist figure on it, and in a 2- or 3-player game, it must have no blocking tile.)
 
-## To Dig At A Site
+2. **Move your archaeologist** from your player board to that space.
 
-1. Pay the travel cost depicted on the space to which you want to send your archaeologist. The space must be unoccupied. (That is, it must have no archaeologist figure on it, and in a 2- or 3-player game, it must have no blocking tile.)
-
-2. Move your archaeologist from your player board to that space.
-
-3. Resolve the effect depicted at the site. (A full key of icons is on the back page of this
-
-## Rulebook.)
+3. **Resolve the effect** depicted at the site. (A full key of icons is on the back page of this rulebook.)
 
 Note: If both your archaeologists are already on sites, you cannot take this action.
 
-to send her archaeologist to the site Example: Red spends a card with a tokens. illustrated here. She places her figure on the space and takes two The next player to use the site this round will need to cover a cost of . Even Red could do this, on a later turn, despite having one archaeologist already there. If both spaces are occupied, no one else can be sent to dig there this round.
+**Example:** *Red spends a card with a* (icon depicting a single boot) *to send her archaeologist to the site illustrated here. She places her figure on the* (icon depicting a single boot) *space and takes two* (icon representing tablets) *tokens. The next player to use the site this round will need to cover a cost of* (icon representing a pair of boots)*. Even Red could do this, on a later turn, despite having one archaeologist already there. If both spaces are occupied, no one else can be sent to dig there this round.*
 
-## Paying Travel Costs
+This site has two spaces for archaeologists.
+> a site having a ladder by it surrounded by water
 
-As you would expect, you can pay a cost of by spending a card with the icon – take the card from your hand, and put it face up into your play area, ignoring its effect. You can also pay with higher travel values, as shown in the Travel Hierarchy on this page.
+### Paying Travel Costs (Page 9)
 
-You can use the on your Fear card to pay a travel cost of
+As you would expect, you can pay a cost of (icon representing a single boot) by spending a card with the (icon representing a single boot) icon – take the card from your hand, and put it face up into your play area, ignoring its effect. You can also pay with higher travel values, as shown in the **Travel Hierarchy** on this page.
 
-.
+You can use the (icon representing a single boot) on your *Fear* card to pay a travel cost of (icon representing a single boot).
 
-## Two Icons
+##### HIRING A PILOT (Page 9)
+
+You can always spend two coins to generate a plane which can be used to pay for any travel icon, as shown in the **Travel Hierarchy** below.
+> two coins equals an airplane.
+
+#### Two Icons (Page 9)
 
 If a cost requires two icons, you can cover it with travel values from two sources.
 
 It's also possible that you have a card that gives you two icons all by itself. Such a card can also cover a one-icon cost, but in that case, the extra icon will probably be wasted. It does not carry over to your next turn.
 
-## Examples:
 
-This site has two spaces for archaeologists.
+##### TRAVEL HIERARCHY (Page 9)
 
-Hiring a Pilot You can always spend two coins to generate a plane which can be used to pay for any travel icon, as shown in the Travel Hierarchy below.
+You can always pay a cost by spending a **higher travel value.** This travel hierarchy is also on your quick reference sheet.
 
-Travel Hierarchy You can always pay a cost by spending a higher travel value. This travel hierarchy is also on your quick reference sheet.
+- (airplane icon) *pays for anything.*
 
-## Pays For
+- (motorbike icon) *cannot pay for (ship icon) and vice versa.*
 
-## Anything.
+- *Any travel value pays for* (icon with a single boot.)
 
-## Cannot
 
-## Pay For And Vice Versa.
-
-Any travel value pays for
-
-.
-
-## Discover A New Site
+## Discover a New Site (Page 10)
 
 Day 10 – Our archaeology team returned with fantastic tales of dwellings in the cliffs adorned with lapidary masterpieces still intact. Yet their joy at their discovery was mingled with dread of the monster that lurked above.
 
-At the beginning of the game, only 5 sites are available for digging. But during play, you can find new ones. You can discover any site that does not yet have a site tile.
+At the beginning of the game, only 5 sites are available for digging. But during play, you can find new ones. You can discover **I** or **II** any site that does not yet have a site tile.
 
-## Or
+### To Discover a New Site (Page 10)
 
-To Discover a New Site 1 Traverse the wilderness. Decide whether you want to discover a site or site. Check the board, a and pay the depicted cost. Then choose an undiscovered site in that region and pay the travel cost to move your archaeologist from your board to that site's space.
+1. **Traverse the wilderness.** Decide whether you want to discover a **I** site or a **II** site. Check the board, and **pay the depicted (compass icon) cost.** Then choose an undiscovered site in that region and **pay the travel cost to move your archaeologist** from your board to that site's space.
 
-2 Take the idol. Immediately resolve the idol's effect. If the site has two idols, you take them both, but use only the effect of the face-up one. Keep your idols on your player board face down on the illustrated supply crates.
+2. **Take the idol.** Immediately resolve the idol's effect. If the site has two idols, you take them both, but use only the effect of the face-up one. Keep your idols on your player board face down on the illustrated supply crates.
 
-3 Discover the site. Take the top tile from the stack that matches the site – . Place it on the board face up. The site has now been discovered and you immediately resolve its effect. 4 Awaken the guardian. Draw the top tile from the guardian stack and place it face up on the site tile.
+3. **Discover the site.** Take the top tile from the stack that matches the site – **I** or **II**. Place it on the board face up. The site has now been discovered and you **immediately resolve its effect**.
 
-## Or
+4. **Awaken the guardian.** Draw the top tile from the guardian stack and place it face up on the site tile.
 
 The guardian does not affect you immediately. However, at the end of the round you will gain a Fear card when you take your archaeologist back from a site that has a guardian on it. (See page 17.)
 
 To avoid this, you may try to overcome the guardian as an action on a later turn. (See the facing page.) Or you might be able to escape the guardian with the help of certain cards that allow you to move your archaeologist or the guardian.
 
-Once your archaeologist is gone (for example, in a later round) the discovered site is another place cost printed archaeologists can be sent to dig. The on the board applies only when you discover these sites, not when you dig. You can send an archaeologist to dig at a site that still has a guardian; returning from such a site at the end of the round gives you a Fear card, even if you were not the one who awoke the guardian.
+Once your archaeologist is gone (for example, in a later round) **the discovered site is another place cost printed archaeologists can be sent to dig.** The (icon of a compass) on the board applies only when you discover these sites, not when you dig. You can send an archaeologist to dig at a site that still has a guardian; returning from such a site at the end of the round gives you a Fear card, even if you were not the one who awoke the guardian.
 
-1
 
-2
-
-3
-
-4
-
-## Overcome A Guardian
+## Overcome A Guardian (Page 11)
 
 Day 11 – We fought the monstrous creature hand to hand, knife to claw! The beast went down! But none could strike the death blow. We stood in awe. The beast bowed its head, acknowledging us. And we realized, then, that this was no monster. No, this creature was one of Arnak's legendary guardians.
 
-## Guardians
-
-## Guardian'S Boon
+### Guardians (Page 11)
 
 Mysterious creatures guard the ruins on the island. A guardian appears whenever a player discovers a new site. The guardian has no immediate effect. However, at the end of the round, you gain a Fear card for each archaeologist returning from a site that still has a guardian. (See page 17.)
 
-Guardians remain on the board until they are overcome. They do not prevent archaeologists from digging at their sites.
+Guardians remain on the board until they are overcome. **They do not prevent archaeologists from digging at their sites.**
 
-## To Overcome A Guardian
+## To Overcome A Guardian (Page 11)
 
 As your turn's main action, you may overcome a guardian. You must have an archaeologist on the guardian's site.
 
-1. Pay the cost depicted at the bottom of the guardian tile.
+1. **Pay the cost** depicted at the bottom of the guardian tile.
 
-2. Remove the guardian from the board and keep it by your player board.
+2. **Remove the guardian** from the board and keep it by your player board.
 
-This effect allows you to overcome a guardian on a site where you have an archaeologist without paying the cost. (However, the effect itself may have a cost, which you must pay.) Guardians overcome in this way still go beside your player board.
+This effect allows you to overcome a guardian on a site where you have an archaeologist **without paying the cost.** (However, the effect itself may have a cost, which you must pay.) Guardians overcome in this way still go beside your player board.
 
-pay this to overcome
+**Tip:** In some situations, it can be very important to overcome a guardian and avoid its Fear card. In other situations, you can get more points by saving those resources for research. Don't feel compelled to overcome every guardian you awaken.
 
-Tip: In some situations, it can be very important to overcome a guardian and avoid its Fear card. In other situations, you can get more points by saving those resources for research. Don't feel compelled to overcome every guardian you awaken.
+### Using A Guardian's Boon (Page 11)
 
-## Using A Guardian'S Boon
-
-Having overcome the guardian, you have earned its respect, and it can grant you the boon depicted in the upper right corner. The boon can be used once during the game, on any of your turns. After using the boon, turn the guardian face down to show that the boon cannot be used again.
+Having overcome the guardian, you have earned its respect, and it can grant you the boon depicted in the upper right corner. The boon can be used **once during the game**, on any of your turns. After using the boon, turn the guardian face down to show that the boon cannot be used again.
 
 Some boons are travel values that can be used to pay a travel cost, just like spending cards from your hand.
+> visual representation featuring a bike icon.
 
 Other boons are free actions, which can be used at any time during any of your turns.
+> visual representation featuring a ligtening bolt and a plus symbol.
 
 The guardian will be worth 5 points at the end of the game whether you use its boon or not.
+> visual representation featuring a purple stylized number five.
 
-## Idols
+#### Idols (Page 11)
 
 You find idols when you discover new sites. When you get an idol, keep it on the supply crates on your player board. Idols should be face down because the discovery reward is no longer relevant.
 
 Each idol will be worth 3 points at the end of the game.
 
-Idol Slots The four slots at the top of your board give you access to useful effects. On your turn, you may put an idol in a slot as a free action:
+#### IDOL SLOTS (Page 11)
 
-1. Move the idol from your supply crates to the leftmost unoccupied
+The four slots at the top of your board give you access to useful effects. On your turn, you may **put an idol in a slot as a free action:**
 
-## Slot On Your Player Board.
+1. **Move the idol** from your supply crates to the leftmost unoccupied slot on your player board.
 
-. Choose one effect from the five depicted options.
+2. **Choose one effect** from the five depicted options.
 
 But use the idol's power wisely! Each of the four slots will be worth a certain number of points if it is still empty at the end of the game.
 
-An idol in a slot cannot be moved, so each slot can be used only once per game. (Unless you find an artifact that allows you to bend this rule.)
+An **idol in a slot cannot be moved**, so each slot can be used only once per game. (Unless you find an artifact that allows you to bend this rule.)
 
-## Possible Idol Slot Effects
 
-## Buy A Card
+## Buy a Card (Page 12)
 
 Day 12 – I climbed a rock and cleared some branches to gain a better view of the path ahead. When I climbed down, the rock was now in sunlight, and I saw it was actually a priceless artifact.
 
 You improve your deck by buying artifacts and items from the card row.
 
-## Card Row Overview
+### Card Row Overview (Page 12)
 
 The card row is divided into two parts by the moon staff:
 
-## Artifact Deck
+**Artifacts are on the left; items are on the right.** Each round, the moon staff moves one space to the right, so each round has more artifacts and fewer items. As the expeditions explore deeper and deeper into the heart of the island, they discover more artifacts, while diminishing the support they can get from the mainland.
 
-## Current Round
+### Items (Page 12)
 
-## Item Deck
+You can buy useful items to equip your expedition. An item you buy goes to the **bottom of your deck**, which means it will usually show up in your hand at the beginning of the next round.
 
-## Artifact
+#### To Buy an Item (Page 12)
 
-## Moon Staff
+1. **Choose an item** in the card row.
 
-## Items
+2. **Pay the (coin icon) cost** depicted at the bottom of the card.
 
-cost to buy
+3. **Put the item face down** on the **bottom of your deck.**
 
-## Points At The End Of The Game
+4. **Refill the card row.**
 
-cost to buy
+### Artifacts (Page 12)
 
-Artifacts are on the left; items are on the right. Each round, the moon staff moves one space to the right, so each round has more artifacts and fewer items. As the expeditions explore deeper and deeper into the heart of the island, they discover more artifacts, while diminishing the support they can get from the mainland.
+Artifacts are valuable treasures you find while exploring the island. You pay for them with (icon of compass) tokens, representing time spent exploring. We'll say that you "buy" the card, even though your expedition is actually searching for it by whacking through the jungle and trekking across the rocky plains. Unlike items, an artifact **can be used as soon as you take it** from the card row.
 
-## Items
+#### To Buy an Artifact (Page 12)
 
-## Artifacts
+1. **Choose an artifact** in the card row.
 
-You can buy useful items to equip your expedition. An item you buy goes to the bottom of your deck, which means it will usually show up in your hand at the beginning of the next round.
+2. Pay the (compass icon) cost depicted at the bottom of the card.
 
-Artifacts are valuable treasures you find while exploring the island. You pay for them with tokens, representing time spent exploring. We'll say that you "buy" the card, even though your expedition is actually searching for it by whacking through the jungle and trekking across the rocky plains. Unlike items, an artifact can be used as soon as you take it from the card row.
+3. **Move the artifact** to your **play area**. You have the option to **immediately resolve its effect, ignoring the** (tablet icon) **cost** in the corner.
 
-## To Buy An Item
+4. **Refill the card row.**
 
-## To Buy An Artifact
+**Note:** When you buy an artifact, you get to resolve its effect. That effect might be another action, like sending an archaeologist to dig at a site. All this is considered to be part of your main action for the turn.
 
-1. Choose an item in the card row.
+##### REFILLING THE CARD ROW (Page 12)
 
-2. Pay the
+At the end of your turn, if the card row is missing a card, refill the row with a card of the same type:
 
-cost depicted at the bottom
+1. **Slide cards toward the moon staff** to make a space on the end.
 
-## Of The Card.
-
-3. Put the item face down on the bottom
-
-## Of Your Deck.
-
-4. Refill the card row.
-
-1. Choose an artifact in the card row.
-
-2. Pay the
-
-cost depicted at the bottom of the card.
-
-3. Move the artifact to your play area. You have the option to immediately resolve its effect, ignoring the cost in the corner.
-
-4. Refill the card row.
-
-Note: When you buy an artifact, you get to resolve its effect. That effect might be another action, like sending an archaeologist to dig at a site. All this is considered to be part of your main action for the turn.
-
-Refilling the Card Row At the end of your turn, if the card row is missing a card, refill the row with a card of the same type:
-
-1. Slide cards toward the moon staff to make a space
-
-## On The End.
-
-2. Deal a new card to that empty space.
+2. **Deal a new card** to that empty space.
 
 If a deck runs out of cards, then for cards of that type, you no longer slide cards and refill the row.
 
-Example: This is the card row in round II. You bought an item, so you will refill the row with an item, as shown. If you had bought an artifact, the new artifact would fill in from the other direction.
+**Example:** *This is the card row in round II. You bought an item, so you will refill the row with an item, as shown. If you had bought an artifact, the new artifact would fill in from the other direction.*
 
-## Play A Card
+<!-- Stopped here -->
+## Play a Card (Page 13)
 
 Day 13 – Ruby is a jaunty bird and I am glad we have her. She finds the most interesting things.
 
