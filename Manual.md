@@ -644,7 +644,7 @@ Break ties in favor of the player who reached the Lost Temple first. If no one r
 | (idols icon and empty idol slot icon)            |  11  |   13  |
 | (guardian icon)                                  |   0  |   20  |
 | (item icon and an icon of an artifact card)      |  13  |    7  |
-| (icon of *Fear* card)                              |  -4  |    0  |
+| (icon of *Fear* card)                            |  -4  |    0  |
 |--------------------------------------------------|------|-------|
 | (icon of summation sign (Σ))                     |  55  |   54  |
 
