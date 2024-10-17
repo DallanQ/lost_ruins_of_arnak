@@ -20,7 +20,7 @@ The card row offers items and artifacts you can get during play. Be sure they ar
 > Artifacts is represented by a blue jug.
 
 2. **Fear.** Place the *Fear* cards on the marked space. They are all the same, so place them face up.
-> Fear is represented by a demon's face with fiery eyes.
+> *Fear* card is represented by a demon's face with fiery eyes.
 
 3. **Items.** Shuffle the items deck face down and place it on the marked space.
 > Items is represented by a hand trowel.
@@ -113,7 +113,7 @@ Your research tokens go on a starting space below the research track. The first 
 Each player has their own deck, and all decks start the same. Your deck should have the 4 basic cards in your color, plus 2 *Fear* cards:
 > 2 Funding Cards.
 > 2 Exploration Cards.
-> 2 Fear Cards.
+> 2 *Fear* Cards.
 
 Shuffle your deck and place it face down on your player board.
 
@@ -302,11 +302,11 @@ At the beginning of the game, only 5 sites are available for digging. But during
 
 4. **Awaken the guardian.** Draw the top tile from the guardian stack and place it face up on the site tile.
 
-The guardian does not affect you immediately. However, at the end of the round you will gain a Fear card when you take your archaeologist back from a site that has a guardian on it. (See page 17.)
+The guardian does not affect you immediately. However, at the end of the round you will gain a *Fear* card when you take your archaeologist back from a site that has a guardian on it. (See page 17.)
 
 To avoid this, you may try to overcome the guardian as an action on a later turn. (See the facing page.) Or you might be able to escape the guardian with the help of certain cards that allow you to move your archaeologist or the guardian.
 
-Once your archaeologist is gone (for example, in a later round) **the discovered site is another place cost printed archaeologists can be sent to dig.** The (icon of a compass) on the board applies only when you discover these sites, not when you dig. You can send an archaeologist to dig at a site that still has a guardian; returning from such a site at the end of the round gives you a Fear card, even if you were not the one who awoke the guardian.
+Once your archaeologist is gone (for example, in a later round) **the discovered site is another place cost printed archaeologists can be sent to dig.** The (icon of a compass) on the board applies only when you discover these sites, not when you dig. You can send an archaeologist to dig at a site that still has a guardian; returning from such a site at the end of the round gives you a *Fear* card, even if you were not the one who awoke the guardian.
 
 
 ## Overcome A Guardian (Page 11)
@@ -315,7 +315,7 @@ Day 11 – We fought the monstrous creature hand to hand, knife to claw! The bea
 
 ### Guardians (Page 11)
 
-Mysterious creatures guard the ruins on the island. A guardian appears whenever a player discovers a new site. The guardian has no immediate effect. However, at the end of the round, you gain a Fear card for each archaeologist returning from a site that still has a guardian. (See page 17.)
+Mysterious creatures guard the ruins on the island. A guardian appears whenever a player discovers a new site. The guardian has no immediate effect. However, at the end of the round, you gain a *Fear* card for each archaeologist returning from a site that still has a guardian. (See page 17.)
 
 Guardians remain on the board until they are overcome. **They do not prevent archaeologists from digging at their sites.**
 
@@ -329,7 +329,7 @@ As your turn's main action, you may overcome a guardian. You must have an archae
 
 This effect allows you to overcome a guardian on a site where you have an archaeologist **without paying the cost.** (However, the effect itself may have a cost, which you must pay.) Guardians overcome in this way still go beside your player board.
 
-**Tip:** In some situations, it can be very important to overcome a guardian and avoid its Fear card. In other situations, you can get more points by saving those resources for research. Don't feel compelled to overcome every guardian you awaken.
+**Tip:** In some situations, it can be very important to overcome a guardian and avoid its *Fear* card. In other situations, you can get more points by saving those resources for research. Don't feel compelled to overcome every guardian you awaken.
 
 ### Using A Guardian's Boon (Page 11)
 
@@ -417,96 +417,79 @@ If a deck runs out of cards, then for cards of that type, you no longer slide ca
 
 **Example:** *This is the card row in round II. You bought an item, so you will refill the row with an item, as shown. If you had bought an artifact, the new artifact would fill in from the other direction.*
 
-<!-- Stopped here -->
 ## Play a Card (Page 13)
 
 Day 13 – Ruby is a jaunty bird and I am glad we have her. She finds the most interesting things.
 
-## To Play A Card
+### To Play a Card (Page 13)
 
-1. Play the card from your hand face up into your play area.
+1. **Play the card** from your hand face up into your play area.
 
-2. Resolve the card's effect.
+2. **Resolve the card's effect.**
 
 The card remains face up in your play area for the remainder of the round (unless you get a chance to exile it, as explained below).
 
-An effect with this icon is a free action. That means playing the card does not count as your main action for the turn. Your Funding and Exploration cards have effects that are free actions, and some item effects are free actions, too.
+(a lightening bolt icon) An effect with this icon is a **free action**. That means playing the card **does not count as your main action** for the turn. Your *Funding* and *Exploration* cards have effects that are free actions, and some item effects are free actions, too.
 
-On the other hand, if the effect is not marked as a free action, it is the main action for your turn. All artifact effects are main actions, as are some item effects, like the one on the Parrot.
+On the other hand, if the effect is not marked as a free action, it is the **main action** for your turn. All **artifact effects are main actions**, as are some item effects, like the one on the *Parrot*.
 
-When you play an artifact, you also have to pay a special explained in the box on this page. That rule does not apply to items.
+When you play an artifact, you also have to pay a special (a tablet icon with a rightward triangle) cost, as explained in the box on this page. That rule does not apply to items.
 
-## Cost, As
+**Reminder:** A card in hand can either be spent for its travel value or played for its effect. Not both.
 
-Reminder: A card in hand can either be spent for its travel value or played for its effect. Not both.
+**Example:** *Let's say you use your turn to play the Parrot. It goes face up into your play area, and you resolve its effect. This effect tells you to use up a card to gain a jewel. Looking through your hand, you decide to use up a Funding card. Put it into play, but ignore its effect. You won't get to use it as a coin this round, but the price is worth it: Take a jewel token from the supply board. This ends your turn, unless you have free actions you want to play.*
 
-Example: Let's say you use your turn to play the Parrot. It goes face up into your play area, and you resolve its effect. This effect tells you to use up a card to gain a jewel. Looking through your hand, you decide to use up a Funding card. Put it into play, but ignore its effect. You won't get to use it as a coin this round, but the price is worth it: Take a jewel token from the supply board. This ends your turn, unless you have free actions you want to play.
+##### EXILE (Page 13)
 
-Exile Certain rules and effects send cards into exile, which is located at the top of the main board. Items and artifacts have special exile piles near their decks. Fear cards go back to the Fear deck when they are exiled. Funding and Exploration cards should go near the Fear deck when they are exiled. Except for Fear cards, the cards in exile usually don't come back into play.
+Certain rules and effects send cards into **exile**, which is located at the top of the main board. Items and artifacts have special exile piles near their decks. *Fear* cards go back to the *Fear* deck when they are exiled. *Funding* and *Exploration* cards should go near the *Fear* deck when they are exiled. Except for *Fear* cards, the cards in exile usually don't come back into play.
 
-This symbol marks the artifact and item exile piles on the board. If you see this symbol in an effect, it means you may exile a card from your hand or from your play area.
+(an icon featuring a red X marking a card) This symbol marks the artifact and item exile piles on the board. If you see this symbol in an effect, it means you may **exile a card from your hand or from your play area.**
 
-Tip: If possible, it is more efficient to use a card and then exile it from your play area, rather than exiling it from your hand.
+**Tip:** If possible, it is more efficient to use a card and then exile it from your play area, rather than exiling it from your hand.
 
-## Playing Artifact Cards
+##### PLAYING ARTIFACT CARDS (Page 13)
 
 When we found it, we thought we understood it. But now I begin to suspect the artifact hides yet more mysteries. Perhaps we shall find the answers in these ancient texts.
 
-artifact have effects All a cost in the corner. When you buy the artifact, this cost is ignored and you perform the effect without it. But whenever you play the artifact's effect from your hand, the cost must be paid.
-
-paying
+All artifact effects have a (tablet icon with a rightward triangle) cost in the corner. When you buy the artifact, this cost is ignored and you perform the effect without paying it. But **whenever you play the artifact's effect from your hand, the (tablet icon with a rightward triangle) cost must be paid.**
 
 The artifact's effect may have other costs as well. These other costs must be paid every time you use the effect.
 
-## Research
+## Research (Page 14)
 
 Day 14 – A shattered spear. Some lines of text. Each lends meaning to the other. I take the time to contemplate these clues to Arnak's past.
 
 A research action moves one of your research tokens up to the next row of the research track:
 
-1
+1. **Decide which research token to move.** If your notebook (icon of a notebook) is below your magnifying glass (icon of a magnifying glass), you may move either token. However, **your notebook must never move to a row above your magnifying glass**. (This is easy to remember: First you discover something; then you write it down.)
 
-1 Decide which research token to move. If your notebook
+2. **Choose a space to move into.** You can only move up into a space that is **connected to your current space**. Sometimes this leaves you with only one choice. Don't worry about other research tokens – multiple tokens can share the same space.
 
-is below your magnifying glass , you may move either token. However, your notebook must never move to a row above your magnifying glass. (This is easy to remember: First you discover something; then you write it down.)
+3. **Pay the cost and move into the space.** The cost is printed on the bridge connecting your old space with your new space.
 
-2 Choose a space to move into. You can only move up into a space that is connected to your current space. Sometimes this leaves you with only one choice. Don't worry about other research tokens – multiple tokens can share the same space.
+4. **Gain The results of your research:**
 
-2
+ - **Take a bonus tile?** If the space has a face-up research bonus tile, immediately gain the depicted bonus and remove the bonus tile from the game. Only the first player to reach that space gets the bonus.
 
-3 Pay the cost and move into the space. The cost is printed on the bridge connecting
-
-## Your Old Space With Your New Space.
-
-## 4 Gain The Results Of Your Research:
-
-◊ Take a bonus tile? If the space has a face-up research bonus tile, immediately gain the depicted bonus and remove the bonus tile from the game. Only the first player to reach that space gets the bonus.
-
-3
-
-◊ You always resolve the row's effect. The effect depends on whether you moved your magnifying glass or your notebook, as depicted on the end of the row. (Ignore the points for now. Those points will be scored at the end of the game, based on where your tokens end up.)
-
-4
+ - **You always resolve the row's effect.** The effect depends on whether you moved your magnifying glass or your notebook, as depicted on the end of the row. (Ignore the points for now. Those points will be scored at the end of the game, based on where your tokens end up.)
 
 You are allowed to resolve the row's effect before using the bonus tile, if you want.
 
-Note: Costs must be paid before any rewards are gained.
+**Note:** Costs must be paid before any rewards are gained.
 
-## The Lost Temple
+### The Lost Temple (Page 14)
 
-When your magnifying glass reaches the top row of the research track, you have discovered the Lost Temple! Unlike the other rows, you get more points if you get here earlier. Place your magnifying glass on the remaining empty space worth the most points.
+When your magnifying glass reaches the top row of the research track, you have discovered the Lost Temple! Unlike the other rows, you get more points if you get here earlier. Place your **magnifying glass on the remaining empty space worth the most points.**
 
-Then take a bonus tile. Look through the stack of face-down tiles and choose one. Return the others. There are just enough for everyone.
+Then **take a bonus tile.** Look through the stack of face-down tiles and choose one. Return the others. There are just enough for everyone.
 
-Note: It is not possible to move your notebook token to the Lost Temple row.
+**Note:** It is not possible to move your notebook token to the Lost Temple row.
 
-## Exploring The Lost Temple
+#### Exploring The Lost Temple (Page 14)
 
 Once you have found the Lost Temple, you can use later research actions to discover Arnak's stories!
 
-If you choose to research with your magnifying glass when it is already in the Lost Temple, instead of paying to advance the token, you pay to take 1 temple tile from any one of the stacks.
-
-## Combination Of Costs For This Stack
+If you choose to research with your magnifying glass when it is already in the Lost Temple, instead of paying to advance the token, you **pay to take 1 temple tile** from any one of the stacks.
 
 At the bottom of the temple are three different costs you can pay. Each stack of tiles has a particular combination of costs, as illustrated on the right.
 
@@ -514,91 +497,79 @@ For example, the 6-point stack on the left requires you to pay the two costs on 
 
 Tiles in each stack are limited. You can't buy tiles from a stack that is empty.
 
- different costs
 
-## Where Can You Move?
+***Where Can You Move?*** (Page 15)
 
-Blue and Red each have their magnifying glasses on different spaces in the first row. Blue's space is connected to both spaces in the next row, so Blue could move up to either one. Red's space, however, is connected to only one space in the next row.
+*Blue and Red each have their magnifying glasses on different spaces in the first row. Blue's space is connected to both spaces in the next row, so Blue could move up to either one. Red's space, however, is connected to only one space in the next row.*
 
-All other tokens are on the starting spaces. Tokens on the starting spaces can advance to either space in the first row.
+*All other tokens are on the starting spaces. Tokens on the starting spaces can advance to either space in the first row.*
 
-Yellow can advance his magnifying glass. He can't advance his notebook until his magnifying glass is at least one row ahead of it.
+*Yellow can advance his magnifying glass. He can't advance his notebook until his magnifying glass is at least one row ahead of it.*
 
-## Points At The End Of The Game
+***Research Action*** (Page 15)
 
-## Research Action
+*On her turn, Red decides to research with her magnifying glass. She pays (tablet icon and arrowhead icon) to advance to the next space. She removes the research bonus tile and gains a (tablet icon) token. The tile goes back to the box and the token goes to her board. (Note that it is impossible to use this token to pay for the research cost – the cost must be paid first.) Looking at the magnifying glass effect on the right, she sees that she gains 1 (an icon of a compass).*
 
-On her turn, Red decides to research with her magnifying glass. She pays to advance to the next space. She removes the research bonus token. The tile tile and gains a goes back to the box and the token goes to her board. (Note that it is impossible to use this token to pay for the research cost – the cost must be paid first.) Looking at the magnifying glass effect on the right, she sees that she gains 1
+***Gaining An Assistant*** (Page 15)
 
-.
+*On Blue's turn, he decides to research with his notebook. It is not legal to move his notebook ahead of his magnifying glass, but he can move it into the same row and even the same space, if he wants.*
 
-## Gaining An Assistant
+*Let's say he does that. Blue pays (tablet icon and arrowhead icon) to move his notebook into the space with his magnifying glass. Blue gets to choose one of the 3 assistants available on the supply board. Blue takes the assistant and puts it silver side up on his player board. Assistants will be explained in detail on the next page.*
 
-On Blue's turn, he decides to research with his notebook. It is not legal to move his notebook ahead of his magnifying glass, but he can move it into the same row and even the same space, if he wants.
-
-Let's say he does that. Blue pays to move his notebook into the space with his magnifying glass. Blue gets to choose one of the 3 assistants available on the supply board. Blue takes the assistant and puts it silver side up on his player board. Assistants will be explained in detail on the next page.
-
-## Assistants
+### Assistants (Page 16)
 
 Assistants are people who have come to join your expedition. Each assistant has two levels – silver and gold. The gold side has the stronger effect. The research track will give you silver assistants when you move your notebook token to certain rows.
 
-Using this assistant is a free action.
 
-## Assistant'S Effect.
+#### Recruiting Assistants (Page 16)
 
-## Silver Level Assistant.
+When your you move notebook to a row with this symbol, **choose one of the assistants** available on the supply board. (Usually, there are 3; however, some of the stacks might be empty later in the game.)
 
-## Recruiting Assistants
-
-Ability that the assistant receives once upgraded.
-
-When your you move notebook to a row with this symbol, choose one of the assistants available on the supply board. (Usually, there are 3; however, some of the stacks might be empty later in the game.)
-
-Note: Assistants not on top are supposed to be kept hidden so that no one knows what they are until the assistant above them has been taken.
+**Note:** Assistants not on top are supposed to be kept hidden so that no one knows what they are until the assistant above them has been taken.
 
 Set the assistant on one of the assistant squares on your player board. The silver side should be face up.
 
 Assistants have various effects. If the effect is a free action, you have the option to use it immediately, or you can save it for later.
 
-## Using Assistants
+#### Using Assistants (Page 16)
 
-To use your assistant, turn it sideways, as shown. A sideways assistant is exhausted and not available for use.
+To use your assistant, turn it sideways, as shown. A sideways assistant is **exhausted** and not available for use.
+> an image of an assitant card turned sideways
 
-In general, you can use an assistant's effect only once per round. At the end of the round, all assistants are refreshed – turned right way up again.
+In general, you can use an assistant's effect only once per round. At the end of the round, all assistants are **refreshed** – turned right way up again.
 
 However, certain card effects might refresh an assistant during the round, allowing it to be used again, perhaps even immediately.
+> a visual representation of a diagonally split rectangle in silver and gold, depicting a person with an arrow over head, symbolizing the refresh or reuse of an assistant's effects in the game.
 
-## Upgrading Assistants
+#### Upgrading Assistants (Page 16)
 
-When you move your notebook to a row with this symbol, upgrade one of your assistants to the gold level – that is, you flip it over to its gold side. At this time, the assistant is refreshed even if its silver-level effect was used earlier in the round.
+When you move your notebook to a row with this symbol, **upgrade one of your assistants** to the gold level – that is, you flip it over to its gold side. At this time, the **assistant is refreshed** even if its silver-level effect was used earlier in the round.
+> an image of a card, symbolizing the upgrade of an assistant to its gold level and refreshing its abilities, regardless of previous use in the round.
 
-## Example:
+**Example:**
 
-Blue uses his assistant to get a
+*Blue uses his assistant to get a (icon of a tablet).*
 
-.
+*Then he pays (two icons of a tablet and one icon of an arrowhead) to advance his notebook token. The notebook effect from that row allows him to upgrade an assistant. He can upgrade either one.*
 
-to advance his notebook Then he pays token. The notebook effect from that row allows him to upgrade an assistant. He can upgrade either one.
+*Blue chooses to upgrade the assistant he already used. He flips the tile over. As part of the effect, the assistant is refreshed. He could use it again right now, if he wanted.*
 
-Blue chooses to upgrade the assistant he already used. He flips the tile over. As part of the effect, the assistant is refreshed. He could use it again right now, if he wanted.
+##### ASSISTANTS HAVE A VARIETY OF EFFECTS: (Page 16)
 
-Assistants have a variety of effects:
-
-assistants Some offer a choice of effects. As a free action, you can use this assistant to get a . Alternatively, you can use it to get a
-
-.
+Some assistants offer a choice of effects. As a free action, you can use this assistant to get a (coin icon). Alternatively, you can use it to get a (plane icon).
 
 This assistant allows you to buy an artifact or an item with a discount. The discount is 1 on this side and 2 on the upgraded side.
 
-This assistant has no free action icon, so using this assistant counts as your turn's main action.
+This assistant has no free action icon, so using this assistant counts as your turn's **main action**.
 
-to make This assistant needs a you a . You can pay the travel cost the same way you pay travel costs for archaeologist actions. Because this is a free action, it makes it for possible to use a card with two things: For example, one could pay for this assistant's effect, and the other could pay for sending an archaeologist to Dig at a Site.
+This assistant needs a (icon of a single boot) to make you a (icon of an arrowhead). You can pay the travel cost the same way you pay travel costs for archaeologist actions. Because this is a free action, it makes it for possible to use a card with (an icon of a pair of boots) for two things: For example, one (icon of a single boot) could pay for this assistant's effect, and the other could pay for sending an archaeologist to Dig at a Site.
 
-## Passing
+
+## Passing (Page 17)
 
 We have discovered such wonders today! Who knows what we shall find tomorrow?
 
-On your turn, you can choose to pass – inform the other players that you will take no more turns this round. Passing counts as your main action for the turn. At this time, you should also use up any free actions you still have available.
+On your turn, you can **choose to pass** – inform the other players that you will take no more turns this round. Passing counts as your main action for the turn. At this time, you should also use up any free actions you still have available.
 
 If you take no other main action, then you must pass. It is not legal to take a turn with only free actions and no main action.
 
@@ -608,271 +579,211 @@ Some effects may require you to pass as part of their cost.
 
 The round ends when all players have passed.
 
-## Setup For Next Round
+## Setup For Next Round (Page 17)
 
 If it is not the end of round V, you end the round by setting up for the next one.
 
-## Card Row Setup Example:
+**All players simultaneously do the following:**
 
-All players simultaneously do the following:
+1. **Return both of your archaeologists** to your player board. Each time you take back an **archaeologist from a site with a guardian, add 1 *Fear* card** to your play area.
 
-End of round I, setting up for round II.
+2. Usually your hand will be empty. But if you have cards left, **each card can be discarded to your play area or saved for the next round.**
 
-1. Return both of your archaeologists to your player board. Each time you take back an archaeologist from a site with a guardian, add 1 Fear card to your play area.
+**Tip:** Use all your cards during your turn, if you can. Keeping a card in your hand for next round is useful only in rare cases.
 
-2. Usually your hand will be empty. But if you have cards left, each card
+3. **Gather all cards** in your play area, **shuffle** them thoroughly, and put them face down on the **bottom of your deck**.
 
-can be discarded to your play area or saved for the next round.
+**Note:** Items you bought during the round will now be above all the cards you just shuffled.
 
-Tip: Use all your cards during your turn, if you can. Keeping a card in your hand for next round is useful only in rare cases.
+4. **Refresh your assistants.** (Turn them right way up again.)
 
-3. Gather all cards in your play area, shuffle them thoroughly, and put
+**The card row should be adjusted as follows:**
 
-them face down on the bottom of your deck.
+1. **Exile the two cards on either side of the moon staff.** (This gets rid of 1 artifact and 1 item. Exile is explained on page 13.)
 
-Note: Items you bought during the round will now be above all the cards you just shuffled.
+2. **Move the moon staff to the right** to indicate the number of the next round.
 
-4. Refresh your assistants. (Turn them right way up again.)
+3. **Refill the card row** (as explained on page 12).
 
-The card row should be adjusted as follows:
+**The starting player marker moves one place to the left –** there will be a new starting player in the new round.
 
-1. Exile the two cards on either side of the moon staff. (This gets rid of
+**Start the new round** by drawing until you have a full hand of 5 cards. If your deck does not have enough cards to make a full hand, just draw them all.
 
-1 artifact and 1 item. Exile is explained on page 13.)
+### End Of Round V (Page 17)
 
-2. Move the moon staff to the right to indicate the number of the next
+At the end of round V, all players take back their archaeologists and **gain *Fear* from guardians**. Skip all the other steps and proceed to final scoring.
 
-## Round.
 
-3. Refill the card row (as explained on page 12).
-
-The starting player marker moves one place to the left – there will be a new starting player in the new round.
-
-Start the new round by drawing until you have a full hand of 5 cards. If your deck does not have enough cards to make a full hand, just draw them all.
-
-## End Of Round V
-
-At the end of round V, all players take back their archaeologists and gain Fear from guardians. Skip all the other steps and proceed to final scoring.
-
-## During Setup For Round Iii, One Artifact Slides.
-
-## Final Scoring
+## Final Scoring (Page 18)
 
 Day 18 — I feel like this island still holds many secrets, but the time has come to return home and share our findings.
 
 At the end of the game, record everyone's points on the scoring sheet and add them up. Points can come from the following sources:
 
-Each of your research tokens scores points based on its row. Magnifying glasses in the Lost Temple row will score points based on the order in which they reached the Lost Temple.
+ - Each of your **research tokens** scores points based on its row. Magnifying glasses in the Lost Temple row will score points based on the order in which they reached the Lost Temple.
 
-Each of your temple tiles scores the amount shown on the tile.
+ - Each of your **temple tiles** scores the amount shown on the tile.
 
-Each of your idols scores 3 points, even if it is in a slot. Also add in the points shown in empty idol slots.
+ - Each of your **idols** scores 3 points, even if it is in a slot. Also add in the points shown in **empty idol slots**.
 
-Each guardian you overcame is worth 5 points, whether you used the boon or not.
+Each **guardian** you overcame is worth 5 points, whether you used the boon or not.
 
-Each item and artifact card scores the amount of points shown in the lower right corner.
+Each **item and artifact card** scores the amount of points shown in the lower right corner.
 
-Fear cards score -1 point each. If you have fear tiles (see page 23), they score -2 points each.
+***Fear* cards score -1** point each. If you have fear tiles (see page 23), they score -2 points each.
 
-Whoever has the most points wins.
+**Whoever has the most points wins.**
+> A summation icon featuring the capital Greek letter Sigma (Σ)
 
 Break ties in favor of the player who reached the Lost Temple first. If no one reached the Lost Temple, break ties in favor of the player with the highest research score. After that, players who are still tied remain tied.
 
-A game by Mín & Elwen Special thanks to our most active testers: Kuba Kutil for always finding a way to break our early prototypes Development Team:
+|                       20 Okt                     |  Mín | Elwen |
+|--------------------------------------------------|------|-------|
+| (magnifying glass icon and research tokens icon) |  24  |   14  |
+| (temple tiles icon)                              |  11  |    0  |
+| (idols icon and empty idol slot icon)            |  11  |   13  |
+| (guardian icon)                                  |   0  |   20  |
+| (item icon and an icon of an artifact card)      |  13  |    7  |
+| (icon of *Fear* card)                              |  -4  |    0  |
+|--------------------------------------------------|------|-------|
+| (icon of summation sign (Σ))                     |  55  |   54  |
 
-and being a huge help in the final balancing of the game as well as testing of the solo game; Pavla Ferstová and Ivan "eklp" Dostál for being big fans since the first prototypes and playtesting over a dozen versions of this game throughout its evolution; Vít Vodička for mastering the game and providing valuable balancing feedback.
 
-## Michal Štach Michaela Štachová
+## The Snake Temple Side (Page 19)
 
-## Graphic Design:
-
-## Art Direction:
-
-## Art:
-
-## 3D Art:
-
-## Art Consultation:
-
-## Production:
-
-## Rulebook Writer:
-
-## Project Management:
-
-## Project Supervision:
-
-## Filip Murmak
-
-## Jakub Politzer
-
-## Ondřej Hrdina Milan Vavroň Jiří Kůs František Sedláček
-
-## Radim "Finder" Pech
-
-## Dávid Jablonovský
-
-## Vít Vodička
-
-## Jason Holt
-
-## Jan Zvoníček
-
-## Petr Murmak
-
-© Czech Games Edition October  www.Czechgames.com
-
-Testers: Martin "Intoš" Sedmera, Laďa Pospěch, David Nedvídek, Iva Nedvídková, Regina Urazajeva, Tomáš Helmich, Filip Murmak, Miroslav Felix Podlesný, Jan Zvoníček, Tomáš Uhlíř, Matúš Kotry, Petr Murmak, Vlaada Chvátil, Rumun, Monča, Leontýnka & Kryštof, Jirka Doušek, Tomáš Dvořák, Pavel Ježek, Viol Balajková, Lea Belejová, Fanda Sedláček, Ondra Skoupý, Tony Gullotti, Justin Sweigart, Tyler Goble, Radim Pech, Jakub Doucek, Honza Bartoš, Zuzana Zadražilová, Tomáš Zadražil, Jana Mikulová, Petr Čáslava, Jakub Politzer, Ladislav "Aillas" Pechal, Juraj, Danielka, Ben, Fero & Dominika, Zuzka & Miroslav Dzurenda, Juraj Butek, Filip Sochor, Lukáš "Colombo" Wiesner, Eliška & Stanislav Kubeš, Petr Ovesný, Adam Španěl, Matt Wolfe, Martin Doležal, Ondra Černoch, Honzík Šafra, Yuri Sulík, Petr "Peca" Palička, Antonín Jan Palička, chasník, Lucia Chrastinová, Aleš Vítek, Michal Kopřiva, Jakub Uhlíř, Pavel Češka, Petr Marek, Tomáš Vician, Anežka Seberová, Michal Ringer, Olda Rejl, Martin Cetkovský, Martin Váňa, Tomáš Sládek, R.A., Yuyka & Ese Šabata, Václav Horák, Matúš Sedlák, Dan Knápek, Lumír Kvita, Kristián "Christheco" Buryš, Bára "CP" Siptáková, Adam "Adamin" Sipták, Dora "Cingilingi" Cidlinská, Michal "Meysha" Stárek, Ailin & Faire, Krtek & Kristýna, Melisilme & Findar, Julie "Peri" Tomaňová, and all other great people we met at the Brno board game club, during CGE playtesting, and other events. Without you, this game would not be possible!
-
-Big shout out to everyone on our CGE team! Filip for all the enthusiasm with which he delved into the quest of making the game look this good. Petr for his dedication to the project, always ready to fix any problem thrown in our way. Regi for helping us with many of our responsibilities and working relentlessly on the game marketing. Jason for being so friendly and positive while working tirelessly to make the rulebook this good. Zvonda for keeping track of thousands of deadlines. Finder for the fantastic trailer and 3D models. Míša and Fanda for helping with graphic design. Vlaada for sharing his experience, feedback, and cool ideas! David, Honza, Dita, and everyone else who helped to prepare countless prototypes, to test and proofread everything! Thank you for being part of this journey!
-
-Many thanks to: Ailín and Faire, who helped and supported us throughout the project – without their help we would not have had the time and tools to finalize the game design. Nand for creating the fantastic nandECK and Paul Grogan for introducing our game to the world in a sad time of canceled conventions in 2020.
-
-Very special thanks to: Ondra Hrdina, Milan Vavroň, Kuba Politzer, Jirka Kůs, and Fanda Sedláček, who helped to build the amazing world of Arnak and made it alive with their stunning art that took our breath away!
-
-## The Snake Temple Side
-
-Our ship was
-
-nothing left. We tried to
+Our ship was (covered text) nothing left. We tried to (covered text) but I fear that even here it shall find us!
 
 The first expedition to Arnak went rather poorly. No one has heard from them in quite some time. While you explore the island, keep your eye out for any survivors.
 
-## Different Board
+### Different Board (Page 19)
 
-The Snake Temple side has sites with different travel costs and a different research track.
+The **Snake Temple** side has sites with different travel costs and a different research track.
 
-but I fear that even here it shall find us!
-
-This magnifying glass effect lets you rescue 1 assistant from those on the research track. Look through the stack secretly and take one. Keep the remaining assistants in
-
-the same order and return the stack to the research track.
-
-Unlike assistants from the supply board, the assistant you rescue is exhausted. You won't be able to use it this round unless an effect refreshes it.
-
-## Assistant Rescue
+### Assistant Rescue (Page 19)
 
 This space in the middle of the research track has survivors from the first expedition. You might be able to rescue one of them if you explore the island's ruins.
+> an image of a card featuring a faint figure of a person at the center, with the numbers 2/3/4 displayed in the top-right corner.
 
-During setup, deal 1 assistant per player to this space. These assistants should be selected randomly. The assistant on top of the stack is public knowledge, but the identities of those underneath should be unknown to players who have not yet reached that row.
+During setup, **deal 1 assistant per player to this space**. These assistants should be selected randomly. The assistant on top of the stack is public knowledge, but the identities of those underneath should be unknown to players who have not yet reached that row.
 
 The supply board will get three stacks of assistants, as usual. Two of the stacks will have three assistants, and the third stack will have all remaining assistants.
 
-To advance a research token across this bridge, you must pay 1 idol. The idol must come from your supply crates – it can't be one of those in a slot. Remove the idol tile from the game.
+To advance a research token across this bridge, you must **pay 1 idol**. The idol must come **from your supply crates** – it can't be one of those in a slot. Remove the idol tile from the game.
 
-Example: Red wants to advance her magnifying glass to the assistant rescue space.
+This magnifying glass effect lets you **rescue 1 assistant** from those on the research track. Look through the stack secretly and take one. Keep the remaining assistants in the same order and return the stack to the research track.
+> an image of a card featuring a silver figure of a person at the center, with a left-facing triangle beside it.
 
-1. She removes an idol from her supply crates and returns it to the box.
+Unlike assistants from the supply board, the assistant you rescue is **exhausted**. You won't be able to use it this round unless an effect refreshes it.
 
-2. She advances her magnifying glass.
+**Example:** *Red wants to advance her magnifying glass to the assistant rescue space.*
 
-3. She looks through the stack of assistants and selects the sea captain.
+1. *She removes an idol from her supply crates and returns it to the box.*
 
-4. The sea captain is exhausted from being marooned on Arnak so long. Red will not be able to use his ability until he is refreshed.
+2. *She advances her magnifying glass.
+*
+3. *She looks through the stack of assistants and selects the sea captain.*
+
+4. *The sea captain is exhausted from being marooned on Arnak so long. Red will not be able to use his ability until he is refreshed.*
 
 This effect allows you to upgrade an assistant from silver to gold. (On the other side of the board, you could do this only when moving your notebook.) If you have two silver assistants, you can upgrade either one – you don't have to keep track of which assistant is the one you rescued.
+> an image of a card featuring a gold figure of a person at the center.
 
 As usual, an exhausted assistant is refreshed when it is upgraded.
 
-Dreadful Tales! At first, we dismissed his stories as hallucinations resulting from the traumatic experience of being stranded for so long, but as we uncovered more secrets of Arnak …
+### Dreadful Tales! (Page 19)
 
-This magnifying glass effect means you gain a Fear card! Place it face up in your play area, ignoring its travel value.
+At first, we dismissed his stories as hallucinations resulting from the traumatic experience of being stranded for so long, but as we uncovered more secrets of Arnak …
 
-During setup, you dealt 2 or 3 bonus tiles to this row of the research track. When you move a research token there – magnifying glass or notebook – you choose one of the tiles. Only the tile you choose is removed.
+This magnifying glass effect means you *gain a *Fear* card!* Place it face up in your play area, ignoring its travel value.
 
-## Solo Variant
+During setup, you dealt 2 or 3 bonus tiles to this row of the research track. When you move a research token there – magnifying glass or notebook – you **choose one of the tiles**. Only the tile you choose is removed.
+
+
+## Solo Variant (Page 20)
 
 We thought we had kept this secret to ourselves. Somehow, others are here ahead of us!
 
 This solo variant allows you to enjoy the thrill of discovering the lost ruins even without another player to compete against.
 
-## Setup
+### Setup (Page 20)
 
-Set up the board as you do for a 2-player game. Whenever a stack is supposed to have a number of tiles equal to the number of players, give it 2 tiles.
+**Set up the board as you do for a 2-player game**. Whenever a stack is supposed to have a number of tiles equal to the number of players, give it 2 tiles.
 
-Set up your own board as usual. You play second, so start with 1
+Set up your own board as usual. You play second, so **start with 1 (icon of a coin) and 1 (icon of a compass)**
 
-## And 1
+## Rival Setup (Page 20)
 
-.
+Choose another player board to represent the rival expedition. **Use the side with the gray tents**. Give it all **6 archaeologist figures** not in your color.
 
-## Rival Setup
+Your rival uses only **one research token**. Put your rival's magnifying glass on a starting space next to your research tokens.
 
-Choose another player board to represent the rival expedition. Use the side with the gray tents. Give it all 6 archaeologist figures not in your color.
-
-Your rival uses only one research token. Put your rival's magnifying glass on a starting space next to your research tokens.
-
-## Rival Action Stack
+### Rival Action Stack (Page 20)
 
 Build your rival's action stack with 10 action tiles.
 
-## Use All 5 Archaeologist Action Tiles:
+Use All 5 Archaeologist Action Tiles:
+
+> image of a tile with a figure of a person and a coin icon under.
+> image of a tile with a figure of a person and a compass icon under.
+> image of a tile with a figure of a person and a tablet icon under.
+> image of a tile with a figure of a person and an arrowhead icon below.
+> image of a tile with a figure of a person and a jewel icon below.
 
 Use 5 red or green action tiles:
 
-## Gameplay
+The action tiles come in pairs. The red action is a more aggressive version of the green action. All 5 actions need to be in the stack, so **you need one tile from each pair**. The set of 5 unused tiles should be returned to the box.
+
+**The number of red tiles is your difficulty level**, from 0 to 5. Decide how many red tiles to use, choose that many red tiles randomly, look at them, and add the appropriate green tiles to complete the set.
+
+Shuffle the rival action stack face down, and you are ready to play.
+
+### Gameplay (Page 20)
 
 Always one step ahead, your rival is the starting player in all 5 rounds. Your rival's turn works like this:
 
-1. Turn up your rival's top action tile and place it beside the
+1. **Turn up your rival's top action tile** and place it beside the action stack.
 
-## Action Stack.
+2. **Resolve the indicated action**. If the situation makes the action impossible, your rival does nothing on that turn.
 
-2. Resolve the indicated action. If the situation makes the action
+During the round, your rival and you alternate turns, as you would in a two-player game. **Your rival does not pass until they have played all 10 action tiles, even if you have already passed.**
 
-impossible, your rival does nothing on that turn.
+### Rival Actions
 
-During the round, your rival and you alternate turns, as you would in a two-player game. Your rival does not pass until they have played all 10 action tiles, even if you have already passed.
+Each rival action is like a player action, but the game focuses on the impacts that these actions have on you. **The rival expedition does not gain or spend resource tokens**. They never get Fear cards. However, they do collect points.
 
-## Rival Actions
+**Note:** The symbols on the action tiles are not exactly like the effects described on the back of this rulebook. They are simply reminders of the rules detailed in this section.
 
-Each rival action is like a player action, but the game focuses on the impacts that these actions have on you. The rival expedition does not gain or spend resource tokens. They never get Fear cards. However, they do collect points.
+(A circular icon featuring the letter V, and a red X beside it) This symbol means that the rival does nothing in round V.
 
-Note: The symbols on the action tiles are not exactly like the effects described on the back of this rulebook. They are simply reminders of the rules detailed in this section.
-
-This symbol means that the rival does nothing in round V.
-
-## Dig At A Site
+#### Dig at a Site (Page 20)
 
 Your rival wants to keep you from getting the depicted resource. Look for a site offering that resource and put a rival archaeologist on the space there. (If all such spaces are occupied, your rival does nothing.)
 
 If there are multiple such spaces, your rival chooses one with the following priorities:
 
-◊ A site in a higher row is preferred over a site in a lower row.
+ - A site in a higher row is preferred over a site in a lower row.
 
-◊ Between sites in the same row, your rival prefers the site farther on the left or the right, as determined by the decision arrow. (See box below.)
+ - Between sites in the same row, your rival prefers the site farther on the left or the right, as determined by the decision arrow. (See box below.)
 
-The action tiles come in pairs. The red action is a more aggressive version of the green action. All 5 actions need to be in the stack, so you need one tile from each pair. The set of 5 unused tiles should be returned to the box.
-
-The number of red tiles is your difficulty level, from 0 to 5. Decide how many red tiles to use, choose that many red tiles randomly, look at them, and add the appropriate green tiles to complete the set.
-
-Shuffle the rival action stack face down, and you are ready to play.
-
-## The Decision Arrow
+##### THE DECISION ARROW (Page 20)
 
 When the rival expedition has to choose between two or more things, it always chooses the leftmost or the rightmost, depending on whether the arrow on the rival action stack is pointing left or right. If you need a tiebreaker for the final action tile, when the stack is empty, use the arrow on the tile at the bottom of the used tiles pile.
 
 Keep all the rival action tiles oriented with the dark edge at the bottom so you will have the same number of left and right arrows.
 
-## Discover A New Site
+#### Discover A New Site (Page 21)
 
-Your rival discovers a site, depending on the round. If there are multiple undiscovered sites:
+Your rival discovers a **I** or **II** site, depending on the round. If there are multiple undiscovered sites:
 
-## Or
+ - First narrow the choices down to one row. Among **I** sites, give preference to the bottom row.
 
-◊ First narrow the choices down to one row. Among
+ - Then use the decision arrow to choose left or right.
 
-sites, give
-
-## Preference To The Bottom Row.
-
-◊ Then use the decision arrow to choose left or right.
-
-Put a rival archaeologist on the chosen space. Move the idol to your rival's board. If the face-up idol is one they token(s) don't have yet, it goes face up on the corresponding space. If it is a duplicate, place it face down on the space on the right labeled -1. Multiple idols can stack on the -1 space. If your rival gets a face- down idol, put it on the -1 space, ignoring its other side.
+**Put a rival archaeologist on the chosen space. Move the idol token(s) to your rival's board.** If the face-up idol is one they token(s) don't have yet, it goes face up on the corresponding space. If it is a duplicate, place it face down on the space on the right labeled -1. Multiple idols can stack on the -1 space. If your rival gets a face- down idol, put it on the -1 space, ignoring its other side.
 
 The newly discovered site gets a site tile, as you would expect. The site gets a guardian only in certain rounds, as indicated on the action tile.
 
-## Research
+#### Research (Page 21)
 
 Advance the rival's magnifying glass to the next row. If you need to choose a space, use the decision arrow.
 
@@ -882,29 +793,27 @@ If your rival cannot advance because they have already reached the Lost Temple, 
 
 Take the topmost assistant from the highest stack on the supply board. If stacks are tied, use the decision arrow. Remove the assistant from the game.
 
-Snake Temple board: When your rival's token reaches the assistant rescue space, they take the topmost assistant on that space. This is in addition to the assistant they take from the supply board.
+**Snake Temple board:** When your rival's token reaches the assistant rescue space, they take the topmost assistant on that space. This is **in addition** to the assistant they take from the supply board.
 
-## Overcome A Guardian
+#### Overcome A Guardian (Page 21)
 
-If there is a guardian on a site occupied by your rival, move it to same your rival's board. Use tiebreakers as those for Dig at a Site: prefer the higher row, use the decision arrow if necessary.
+(an icon featuring a green checkmark on a guardian) If there is a guardian on a site occupied by your rival, move it to same your rival's board. Use tiebreakers as those for Dig at a Site: prefer the higher row, use the decision arrow if necessary.
 
-## The
+(an icon featuring a magnifying glass in parenthesis) If your rival has no archaeologist on a site with a guardian, your rival Researches instead, but does not take an assistant from the supply board. (However, on the Snake Temple side, they will rescue an assistant if they reach that space.)
 
-If your rival has no archaeologist on a site with a guardian, your rival Researches instead, but does not take an assistant from the supply board. (However, on the Snake Temple side, they will rescue an assistant if they reach that space.)
-
-## Buy An Item
+#### Buy an Item (Page 21)
 
 In the green version of this action, your rival takes the item with the lowest point value. In the red version, your rival takes the highest. Break ties with the decision arrow. Put the card on your rival's board. Finish the action by refilling the card row.
 
-## Buy An Artifact
+#### Buy an Artifact (Page 21)
 
 As you may have guessed, this is just like buying an item.
 
-## End Of Round
+### End of Round (Page 21)
 
-At the end of the round, return all rival archaeologists to their board. Your rival does not gain Fear cards. Shuffle the action stack face down, and your rival is ready to go again. Your rival will be the starting player in every round, so the starting player marker is not needed.
+At the end of the round, return all rival archaeologists to their board. **Your rival does not gain *Fear* cards**. Shuffle the action stack face down, and your rival is ready to go again. **Your rival will be the starting player in every round**, so the starting player marker is not needed.
 
-## Scoring
+### Scoring (Page 21)
 
 The rival expedition scores points for the position of their magnifying glass, for temple tiles, for guardians overcome, and for cards purchased, as you would expect.
 
@@ -912,239 +821,217 @@ They score 3 points for each unique, face-up idol. The idols in the -1 stack giv
 
 You score your points as usual. Compare your points with your rival's. Whoever has more points wins.
 
-## Solo Campaign The Search For Professor Kutil
+### Solo Campaign (Page 21)
+#### The Search For Professor Kutil (Page 21)
 
 Find out what happened to professor Kutil and his team in this free, four-chapter solo campaign for Lost Ruins of Arnak.
 
-## ◊ Progress
+ - Progress through the four chapters, each with a unique set of rules and goals.
 
-## Four Through Chapters, Each With A Unique Set Of Rules And Goals.
+ - Discover the story of the lost expedition.
 
-## The
+ - Play with a companion web app or use the print-and-play files.
 
-## ◊ Discover The Story Of The Lost
+**Try out the free solo campaign now: https://arnak.game**
 
-## Expedition.
 
-◊ Play with a companion web app or use the print-and-play files.
+## Appendix (Page 22)
 
-Try out the free solo campaign now: https://arnak.game
+### Notes On Selected Cards (Page 22)
 
-## Appendix
+##### ARMY KNIFE (Page 22)
 
-## Notes On Selected Cards
+You choose two of the four benefits depicted. You are not allowed to choose only one and take it twice.
 
-Army Knife You choose two of the four benefits depicted. You are not allowed to choose only one and take it twice.
+##### BEAR TRAP (Page 22)
 
-Bear Trap You can use the trap on a site with or without your archaeologist. The restriction is that no one else can be there. (It's a safety precaution.)
+You can use the trap on a site with or without your archaeologist. The restriction is that no one **else** can be there. (It's a safety precaution.)
 
-Bow and Arrows Your maximum possible gain is
+##### BOW AND ARROWS (Page 22)
 
-.
+Your maximum possible gain is (three icons of a compass).
 
-Brush All idols on your player board count, whether they are in slots or not. Your maximum possible gain is
+##### BRUSH (Page 22)
 
-.
+All idols on your player board count, whether they are in slots or not. Your maximum possible gain is (three icons of a compass).
 
-Fishing Rod Precision Compass Unlike a normal card-buying action, you can do this even if you can't afford any card in the card row. Reveal the top card of the relevant deck. It is one of the cards you can buy. You can also decide to buy no card and turn it face down again. If you choose to buy a different card, the top card goes into the row when you refill it, as usual.
 
-Journal This card applies only to your notebook, not your magnifying glass. Don't forget that your notebook cannot move above your magnifying glass.
+##### FISHING ROD PRECISION COMPASS (Page 22)
 
-Ancient Wine Coconut Flask The artifact's effect counts as your main action for the turn, even if the assistant's effect is a free action. The assistant is not exhausted after being used on the supply board. If you use this to generate a travel value, that value is wasted unless you use it in a free action before the end of your turn. Note that the effect cannot be applied to an assistant on the assistant rescue space of the Snake Temple research track.
+Unlike a normal card-buying action, you can do this even if you can't afford any card in the card row. Reveal the top card of the relevant deck. It is one of the cards you can buy. You can also decide to buy no card and turn it face down again. If you choose to buy a different card, the top card goes into the row when you refill it, as usual.
+
+##### JOURNAL (Page 22)
+
+This card applies only to your notebook, not your magnifying glass. Don't forget that your notebook cannot move above your magnifying glass.
+
+##### ANCIENT WINE COCONUT FLASK (Page 22)
+
+The artifact's effect counts as your main action for the turn, even if the assistant's effect is a free action. The assistant is not exhausted after being used on the supply board. If you use this to generate a travel value, that value is wasted unless you use it in a free action before the end of your turn. Note that the effect cannot be applied to an assistant on the assistant rescue space of the Snake Temple research track.
+
+##### CRYSTAL EARRING (Page 22)
 
 Crystal Earring First decide how many cards to draw, then draw that many. Of those, keep one in your hand. If you drew more than one, one may be returned to the top of your deck. Any remaining cards that you drew must then be placed in your play area with no effect.
 
-Decorated Horn If you exchange a silver assistant, your new assistant is also silver. If you exchange a gold assistant, you flip your new assistant to its gold side. The assistant you put on the supply board should be set to its silver side.
+##### DECORATED HORN (Page 22)
 
-Guardian's Crown This artifact cannot move a guardian to a site that has not been discovered. An unoccupied site is one with no archaeologists. If any of the spaces on a site is occupied, the entire site is considered occupied.
+If you exchange a silver assistant, your new assistant is also silver. If you exchange a gold assistant, you flip your new assistant to its gold side. The assistant you put on the supply board should be set to its silver side.
 
-Guardian's Ocarina If both your archaeologists are on your board, you may still play this card to turn all your travel icons into . If a card has 2 travel icons, they are turned into
+##### GUARDIAN's CROWN (Page 22)
 
-Idol of Ara-Anu Inscribed Blade This discount can be applied to buying a temple tile.
+This artifact cannot move a guardian to a site that has not been discovered. An unoccupied site is one with no archaeologists. If any of the spaces on a site is occupied, the entire site is considered occupied.
 
-Ornate Hammer Take the rightmost item in the card row and put it in the pile for exiled items. Then you may take one item from the pile of exiled items. You do not pay its cost. Put it on the bottom of your deck. At the end of your turn, refill the card row.
+##### GUARDIAN'S OCARINA (Page 22)
 
-Obsidian Earring First you decide whether to draw 1 or 2 cards, then you draw that many from the bottom of your deck. If you draw 1, it goes to your hand. If you draw 2, look at them, put one in your hand, and put the other into your play area, face up, ignoring its effect and travel value.
+If both your archaeologists are on your board, you may still play this card to turn all your travel icons into (an icon featuring a single airplane) . If a card has 2 travel icons, they are turned into (an icon featuring double airplane)
 
-Pathfinder's Sandals Pathfinder's Staff Your archaeologist can be relocated from any site. The effect only restricts the types of sites it can be relocated to.
+##### IDOL OF ARA-ANU INSCRIBED BLADE (Page 22)
 
-.
+This discount can be applied to buying a temple tile.
 
-## Don'T Forget!
+##### ORNATE HAMMER (Page 22)
 
-◊ You can always pay
+Take the rightmost item in the card row and put it in the pile for exiled items. Then you may take one item from the pile of exiled items. You do not pay its cost. Put it on the bottom of your deck. At the end of your turn, refill the card row.
 
-to buy a
+##### OBSIDIAN EARRING (Page 22)
 
-.
+First you decide whether to draw 1 or 2 cards, then you draw that many from the bottom of your deck. If you draw 1, it goes to your hand. If you draw 2, look at them, put one in your hand, and put the other into your play area, face up, ignoring its effect and travel value.
 
-◊ You can't advance your
+##### PATHFINDER'S SANDALS PATHFINDER's STAFF (Page 22)
+Your archaeologist can be relocated **from** any site. The effect only restricts the types of sites it can be relocated **to**.
 
-token above your
+### Don't Forget! (Page 23)
 
-## Token.
+ - **You can always pay (two icons of a coin) to buy a (icon of plane).**
 
-◊ Every row of the research track has an effect. You resolve the
+ - **You can't advance your (icon of research) token above your (icon of a magnifying glass) token.**
 
-effect regardless of whether you take a bonus tile.
+ - **Every row of the research track has an effect.** You resolve the effect regardless of whether you take a bonus tile.
 
-◊ When you upgrade your assistant, you also refresh it.
+ - **When you upgrade your assistant, you also refresh it.**
 
-◊ When you use the
+ - **When you use the (icon of a red X on a card) effect, you can exile a card from your hand or your play area.**
 
-effect, you can exile a card from your
+ - **Gain fear, then shuffle.** At the end of the round, you take your archaeologists back – and potentially gain *Fear* cards from guardians – before shuffling the cards in your play area.
 
-## Hand Or Your Play Area.
+ - **Shuffled cards go to the bottom of your deck.** And only at the end of the round – you shouldn't be shuffling cards at any other time.
 
-◊ Gain fear, then shuffle. At the end of the round, you take your archaeologists back – and potentially gain Fear cards from guardians – before shuffling the cards in your play area.
+ - **When you buy an item, it goes to the bottom of your deck.** This means it will be above all those cards you shuffle at the end of the round.
 
-◊ Shuffled cards go to the bottom of your deck. And only at the end of the round – you shouldn't be shuffling cards at any other time.
+### Frequently Asked Questions (Page 23)
 
-◊ When you buy an item, it goes to the bottom of your deck. This means it will be above all those cards you shuffle at the end of the round.
+ - **Can I have more than 5 cards in my hand?** Yes. The hand limit applies only when drawing cards at the beginning of a round.
 
-## Frequently Asked Questions
+ - **Is there a way to buy an item and use it later in the same round?** Yes. When you buy an item it goes to the bottom of your deck. Certain card-drawing effects might allow you to draw it. Once it's in your hand, you can use it on any turn.
 
-◊ Can I have more than 5 cards in my hand? Yes. The hand limit applies only when drawing cards at the beginning of a round.
+ - **Can I shuffle my deck during play?** No. You shuffle your deck only at the beginning of the game. At the end of each round, you shuffle all cards in your play area and put them at the bottom of your deck. No other shuffling is allowed.
 
-◊ Is there a way to buy an item and use it later in the same round? Yes. When you buy an item it goes to the bottom of your deck. Certain card-drawing effects might allow you to draw it. Once it's in your hand, you can use it on any turn.
+ - **But what if my deck runs out of cards?** If your deck is out of cards, you can't draw any more. The cards in your play area will not return to your deck until the end of the round. If you buy an item, just put it on the space for your deck – that item is now on the bottom (and the top) of your deck.
 
-◊ Can I shuffle my deck during play? No. You shuffle your deck only at the beginning of the game. At the end of each round, you shuffle all cards in your play area and put them at the bottom of your deck. No other shuffling is allowed.
+ - **What's the difference between the (icon featuring a figure of a person) effect and "relocate"?** The two are completely different. The (icon featuring a figure of a person) effect follows the rules of an action, either Dig at a Site or Discover a New Site. It requires you to use an archaeologist from your player board, and you must pay the travel cost unless the card says otherwise. By contrast, you can relocate an archaeologist only if it is already on a site, and it can't go to an undiscovered site. **You don't pay a travel cost to relocate**.
 
-◊ But what if my deck runs out of cards? If your deck is out of cards, you can't draw any more. The cards in your play area will not return to your deck until the end of the round. If you buy an item, just put it on the space for your deck – that item is now on the bottom (and the top) of your deck.
+ - **Does this card let me move another player's archaeologist?** No. There are no effects in the game that would allow you to affect another player's cards, figures, or tokens.
 
-◊ What's the difference between the
-
-effect and "relocate"? The two are completely different. The effect follows the rules of an action, either Dig at a Site or Discover a New Site. It requires you to use an archaeologist from your player board, and you must pay the travel cost unless the card says otherwise. By contrast, you can relocate an archaeologist only if it is already on a site, and it can't go to an undiscovered site. You don't pay a travel cost to relocate.
-
-◊ Does this card let me move another player's archaeologist? No. There are no effects in the game that would allow you to affect another player's cards, figures, or tokens.
-
-## Shorthand Notation
+### Shorthand Notation (Page 23)
 
 The following icons are used as shorthand notation for various game components:
 
-◊
+ - (icon featuring a hand trowel) an item card
 
-## An Item Card
+ - (icon featuring a blue jug) an artifact card
+ 
+ - (icon resembling a face with yellow hair) a guardian tile
 
-◊
+ - (icon featuring a diagonally split rectangle in silver and gold, depicting a person) an assistant
 
-## An Artifact Card
+ - (icon featuring a golden idol seated in lotus position) an idol tile
 
-◊
+ - (icon featuring a figure of a person) one of your archaeologist figures
 
-## A Guardian Tile
-
-◊
-
-## An Assistant
-
-◊
-
-## An Idol Tile
-
-◊
-
-## One Of Your Archaeologist Figures
-
-## Free Actions
+### Free Actions (Page 23)
 
 During your turn, you may perform any number of free actions before, during, or after your main action. You may have the following free actions available:
 
-◊ All card effects marked with the
+ - All card effects marked with the (icon featuring a lightening bolt) symbol are free actions.
 
-symbol are free actions.
+ - Putting an idol in a slot is a free action.
 
-◊ Putting an idol
+ - Using a guardian's boon is a free action.
 
-in a slot is a free action.
+ - Using an assistant's effect is a free action, except for the assistant that lets you buy a card with a discount.
 
-◊ Using a guardian's boon is a free action.
-
-◊ Using an assistant's effect is a free action, except for the
-
-assistant that lets you buy a card with a discount.
-
-## Reserve Tiles
+##### RESERVE TILES (Page 23)
 
 The ×3 multiplier tiles are intended for use if you are close to running out of tokens. Each token on the tile counts as 3. Tokens on the supply board are not intended to be limited.
+> an image of a card featuring the ×3 symbol at the bottom.
 
-The other side of the tile is a fear tile. If you are supposed to take a Fear card when the Fear deck is empty, you take a fear tile instead. It will be worth -2 points during final scoring. Keep the fear tile in your play area. If you have a chance to exile a card from your play area, you may exile the fear tile instead.
+The other side of the tile is a fear tile. If you are supposed to take a *Fear* card when the *Fear* deck is empty, you take a fear tile instead. It will be worth -2 points during final scoring. Keep the fear tile in your play area. If you have a chance to exile a card from your play area, you may exile the fear tile instead.
+> an image of the *Fear* Card with the -2 symbol at the bottom.
 
 In playtesting, we needed these tiles only in extremely rare situations. Depending on your play style, your group might never need them.
 
-## Effects Many Effects Simply Depict The Tokens You Gain:
+### EFFECTS (Page 24)
 
-Gain the indicated tokens.
+Many Effects simply depict the tokens you gain:
 
-Gain the indicated tokens.
+ - (two icons of a coin) Gain the indicated tokens.
 
-Gain the indicated tokens.
+ - (an icon of a tablet and an icon of an arrowhead) Gain the indicated tokens.
 
-Gain a Fear card and the indicated tokens. You must take a Fear card from the board and put it face up in your play area. (Ignore its travel value.) If no Fear cards are available, take a fear tile, as explained on page 23.
+ - (two icons of a compass and a jewel) Gain the indicated tokens.
 
-You may pay the cost on the left to gain the benefit on the right. If you cannot pay the cost or do not wish to, then you do not get the benefit.
+ - (icons of one *Fear* card, one tablet and one jewel) Gain a *Fear* card and the indicated tokens. You must take a Fear card from the board and put it face up in your play area. (Ignore its travel value.) If no *Fear* cards are available, take a fear tile, as explained on page 23.
 
-Pay the cost to choose one of the two tokens.
+ - (icons of a compass and a jewel with right-facing triangle in bewteen them) You may pay the cost on the left to gain the benefit on the right. If you cannot pay the cost or do not wish to, then you do not get the benefit.
 
-## Make One Of These Two Trades:
+- (icons of a coin, a right-facing triangle a slash in between an arrowhead and a jewel) Pay the cost to choose one of the two tokens.
 
-## Or
+- (icon depicting a large arrow above a tablet, an arrowhead, and a jewel) Make one of these two trades: (icon of aright-facing triangle in between a tablet and a jewel) OR (icon of a right-facing triangle in between an arrowhead and a jewel)
 
-On an artifact card, this is a reminder that the effect . However, this cost applies only when you play it
+ - (icon of a tablet and a right-facing triangle) On an artifact card, this is a reminder that the effect costs 1 (icon of a tablet) . However, this cost applies only when you play it from your hand, not when you buy it.
 
-costs 1 from your hand, not when you buy it.
+ - (icon of a yellow curving arrow on a card with a right-facing triangle) You pay this cost by putting one of the cards in your hand face up into your play area, ignoring the card's travel value and effect. If you have no cards left in your hand, you cannot pay this cost, and thus cannot gain the benefit of the effect.
 
-You pay this cost by putting one of the cards in your hand face up into your play area, ignoring the card's travel value and effect. If you have no cards left in your hand, you cannot pay this cost, and thus cannot gain the benefit of the effect.
+ - (icon of a green addition sign on a card) You may draw a card. If your deck is empty, then this has no effect.
 
-You may draw a card. If your deck is empty, then this
+ - (icon of a red X on a card) You may choose a card in your hand or in your play area and send it to exile (as explained on page 13).
 
-has no effect.
+- (an icon of the addition sign on a card and another icon of a red X on a card) You may draw a card. Then you may exile a card in your hand or in your play area. Note that each part of the effect is optional.
 
-You may choose a card in your hand or in your play area
+- (an icon of the addition sign on a card and another icon of of a yellow curving arrow on a card) You may draw a card. Then you must put a card in your hand face up into your play area, ignoring its travel value and its effect.
 
-and send it to exile (as explained on page 13).
+- (an icon of a diagonally split card in silver and gold, depicting a person with an arrow at the top facing left) You may refresh one of your assistants. See page 16.
 
-You may draw a card. Then you may exile a card in your hand or in your play area. Note that each part of the effect is optional.
+- (an icon of a lightening bolt) This icon denotes that the effect does not count as your main action for the turn. You can play as many free actions as you want before, after, and even during your main action.
 
-You may draw a card. Then you must put a card in your hand face up into your play area, ignoring its travel value and its effect.
+##### KEYWORDS (Page 24)
 
-You may refresh one of your assistants. See page 16.
+**activate a site:** When you activate a site, you use the site's effect. You do not need an archaeologist there and other players' archaeologists do not block you from activating the site, unless the card says otherwise. You do not pay any travel cost. You cannot activate a site that has not been discovered yet.
 
-This icon denotes that the effect does not count as your main action for the turn. You can play as many free actions as you want before, after, and even during your main action.
+**activate a site tile:** Two cards allow you to activate the top site tile in one of the stacks. Simply resolve the tile's effect, as when activating a site.
 
-Keywords activate a site: When you activate a site, you use the site's effect. You do not need an archaeologist there and other players' archaeologists do not block you from activating the site, unless the card says otherwise. You do not pay any travel cost. You cannot activate a site that has not been discovered yet.
+**discount:** Resolve the effect as though you had the tokens or travel value depicted in the discount. For example, a discount of (two icons of a compass) means that a cost of (three icons of a compass) is reduced to (one icon of a compass). A discount of (an icon of an airplane) means that one icon in a travel cost is covered. (A discount of (an icon of a pair of boots), however, has no effect on travel costs that don't have (an icon of a single pair of boot.)) Discounts will not reduce a cost below zero and they will not carry over to other actions.
 
-activate a site tile: Two cards allow you to activate the top site tile in one of the stacks. Simply resolve the tile's effect, as when activating a site.
+**exile:** Send the card to exile, as explained on page 13. Alternatively, an effect might specify that you take a card from exile.
 
-discount: Resolve the effect as though you had the tokens or travel value depicted in the discount. For example, a discount of . A discount , of however, has no effect on travel costs that don't have .) Discounts will not reduce a cost below zero and they will not carry over to other actions.
+**exile this card to:** When you play the card for its effect, it goes to exile instead of your play area.
 
-## Means That A Cost Of
+**gain** (icon of a hand trowel (item)): When you gain an item, it means you do not pay the (icon of a coin) cost. Unless otherwise otherwise stated, this is identical to the Buy a Card action, except you skip the step in which the cost is paid.
 
-is reduced to
+**occupied by you:** You occupy a site if you have an archaeologist figure there.
 
-means that one icon in a travel cost is covered. (A discount of
+**pass to gain:** To gain the benefit, you must pass. You will get no more turns for the remainder of the round.
 
-exile: Send the card to exile, as explained on page 13. Alternatively, an effect might specify that you take a card from exile.
+**relocate:** Without paying a travel cost, pick up one of your archaeologists that is already on a site and move it to an unoccupied space at a different site that has already been discovered. The effect might specify additional restrictions.
 
-exile this card to: When you play the card for its effect, it goes to exile instead of your play area.
+**unoccupied site:** A site is unoccupied if no one has an archaeologist figure there. (Guardian tiles do not count as occupying a site.) An occupied site might still have an unoccupied space even though the site is considered "occupied".
 
-cost. : When you gain an item, it means you do not pay the gain Unless otherwise stated, this is identical to the Buy a Card action, except you skip the step in which the cost is paid.
+##### ACTION EFFECTS (Page 24)
 
-occupied by you: You occupy a site if you have an archaeologist figure there.
+The effects below allow you to perform an action. Normally it would be the main action of your turn, but here it is considered simply part of the effect.
 
-pass to gain: To gain the benefit, you must pass. You will get no more turns for the remainder of the round.
+(an icon of a figure of a person) You may immediately take a Dig at a Site or Discover a New Site action, if you have an archaeologist on your player board. The effect may specify special benefits or limitations.
 
-relocate: Without paying a travel cost, pick up one of your archaeologists that is already on a site and move it to an unoccupied space at a different site that has already been discovered. The effect might specify additional restrictions.
-
-unoccupied site: A site is unoccupied if no one has an archaeologist figure there. (Guardian tiles do not count as occupying a site.) An occupied site might still have an unoccupied space even though the site is
-
-considered "occupied".
-
-Action Effects The effects below allow you to perform an action. Normally it would be the main action of your turn, but here it is considered simply part of the effect.
-
-You may immediately take a Dig at a Site or Discover a New Site action, if you have an archaeologist on your player board. The effect may specify special benefits or limitations.
-
-You may immediately overcome a guardian without paying the cost depicted on the guardian tile. This effect applies only to a guardian on a site where you have an archaeologist.
+(an icon of a green checkmark on a guardian icon) You may immediately overcome a guardian without paying the cost depicted on the guardian tile. This effect applies only to a guardian on a site where you have an archaeologist.
 
 You may immediately buy an artifact or item from the card row. The price is reduced by the amount indicated.
 
@@ -1152,12 +1039,15 @@ Perform the Buy an Artifact action, skipping the step where you pay its cost, bu
 
 Perform the Buy an Item action, skipping the step where you pay its cost.
 
-## Starting Resources Player 1:
+##### STARTING RESOURCES
 
-## Player 2:
+ - Player 1: (two icons of a coin)
 
-## Player 3:
+ - Player 2: (one icon of a coin and one compass)
 
-## Player 4:
+ - Player 3: (two icons of a coin and one icon of a compass)
 
-## Starting Deck
+ - Player 4: (one icon of a coin and two icons of a compass)
+
+##### STARTING DECK
+> a visual representation of a deck of card tiles, including two coin cards, two compass cards, and two *Fear* cards. The coin and compass cards feature a lightning bolt icon.
