@@ -1,8 +1,3 @@
-Day 3 – After two fruitless days of searching empty ocean, a smudge on the horizon, barely discernible among the sparkling waves, gave me a glimmer of hope. As we drew nearer, a flock of brilliant scarlet birds flew toward our vessel, chirping and whistling as though in welcome. Consulting her charts, our navigator assured us that the island was indeed as yet uncharted. Her words supported a hypothesis we all silently shared – those rugged plateaus, that verdant jungle!
-
-       – this could be Arnak!
-
-
 ## Setup (Page 4)
 
 ### Main Board (Page 4)
@@ -17,13 +12,13 @@ The Snake Temple side follows special rules which are explained on page 19.
 The card row offers items and artifacts you can get during play. Be sure they are divided into separate decks. They have the same backs, but they can be easily distinguished by their faces and by the icon in the upper right corner.
 
 1. **Artifacts.** Shuffle the artifacts deck face down and place it on the marked space.
-> Artifacts is represented by a blue jug.
+> icon of a blue jug representing Artifacts.
 
 2. **Fear.** Place the *Fear* cards on the marked space. They are all the same, so place them face up.
-> *Fear* card is represented by a demon's face with fiery eyes.
+> icon of *Fear* card represented by a demon's face with fiery eyes.
 
 3. **Items.** Shuffle the items deck face down and place it on the marked space.
-> Items is represented by a hand trowel.
+> icon of items card represented by a hand trowel.
 
 4 **Moon Staff.** Place the moon staff in the card row, as shown, indicating it is round I.
 
@@ -47,12 +42,11 @@ The card row offers items and artifacts you can get during play. Be sure they ar
 In a **four-player game**, do not use the blocking tiles. (This page illustrates a three-player game.)
 
 In a **three-player game**, block 3 (an icon featuring a pair of boots) spaces. Mix up the blocking tiles face down and flip over 3 at random. Each corresponds to one (an icon featuring a tent) site.
-> a blocking tile that illustrates an ocean wave.
-> a blocking tile that illustrates compass. Compasses represent time and energy spent exploring the island.
-> a blocking tile that illustrates an ocean wave.
+> icon of a blocking tile that illustrates an ocean wave.
+> icon of a blocking tile that illustrates compass. Compasses represent time and energy spent exploring the island.
+> icon of a blocking tile that illustrates an ocean wave.
 > a blocking tile illustrating arrowhead. Arrowheads represent remnants of weapons you discover.
-> a blocking tile representing Jewel. Jewels are mysterious talismans of the bird god Ara-Anu. They are hard to find, 
-but often essential for completing your research into the mysteries of Arnak.
+> icon of a blocking tile illustratin a red gem representing Jewel.
 
 Use the 3 tiles to block the (an icon featuring a pair of boots) space at each of those sites. (On the board, place them face down.) Return the 2 unused tiles to the box.
 
@@ -94,8 +88,6 @@ Distribute research bonus tiles randomly to the appropriate spaces, then turn th
 
 ## Player Setup (Page 6)
 
-Day 6 – We found a good place to pitch our tents, with fresh water nearby. Our quartermaster has ensured we will be well supplied. For the fortnight, this shall be our home.
-
 Each player should choose a color and take the **player board, research tokens, 2 archaeologist figures, and 4 basic cards** in that color.
 
 ### Player Board (Page 6)
@@ -111,9 +103,9 @@ Your research tokens go on a starting space below the research track. The first 
 ### Your Starting Deck (Page 6)
 
 Each player has their own deck, and all decks start the same. Your deck should have the 4 basic cards in your color, plus 2 *Fear* cards:
-> 2 Funding Cards.
-> 2 Exploration Cards.
-> 2 *Fear* Cards.
+> image of 2 Funding Cards.
+> image of 2 Exploration Cards.
+> image of 2 *Fear* Cards.
 
 Shuffle your deck and place it face down on your player board.
 
@@ -136,8 +128,6 @@ Starting resources depend on play order, as shown.
 
 
 ## Gameplay (Page 7)
-
-Day 7 – How strange it is to be here, to finally see what we have strived so long to find! I feel, sometimes, as though we are encamped on sacred ground. What wonders lie ahead? What dangers? We have no inkling of the secrets this island holds, but we vowed to unveil them, and that we shall do!
 
 ### Goal Of The Game (Page 7)
 
@@ -179,8 +169,6 @@ Players take turns choosing various actions that help them uncover the secrets o
 
 
 ## Your Turn (Page 8)
-
-Day 8 – Though our eagerness to begin is mixed with a certain amount of trepidation, now is not the time to let our courage fail. If there are dangers, well, we came here to confront them. To the jungle then, and no delay!
 
 On your turn, you have several options. Your choices will depend on the cards in your hand and the situation on the game board.
 
@@ -238,8 +226,6 @@ Your play area is basically a spread-out discard pile. Cards accumulate from tur
 
 ## Dig at a Site (Page 9)
 
-Day 9 – We brought a ladder to the site and climbed to get a better look at the carvings. As we had hoped, it was writing! If such wonders lie so close to camp, who knows what we shall find once we truly begin to explore!
-
 As your main action for your turn, you can send one of your archaeologists to dig at any of the 5 sites. You will also be able to dig at **I** and **II** sites after they have been discovered.
 
 ### To Dig at a Site (Page 9)
@@ -288,8 +274,6 @@ You can always pay a cost by spending a **higher travel value.** This travel hie
 
 ## Discover a New Site (Page 10)
 
-Day 10 – Our archaeology team returned with fantastic tales of dwellings in the cliffs adorned with lapidary masterpieces still intact. Yet their joy at their discovery was mingled with dread of the monster that lurked above.
-
 At the beginning of the game, only 5 sites are available for digging. But during play, you can find new ones. You can discover **I** or **II** any site that does not yet have a site tile.
 
 ### To Discover a New Site (Page 10)
@@ -310,8 +294,6 @@ Once your archaeologist is gone (for example, in a later round) **the discovered
 
 
 ## Overcome A Guardian (Page 11)
-
-Day 11 – We fought the monstrous creature hand to hand, knife to claw! The beast went down! But none could strike the death blow. We stood in awe. The beast bowed its head, acknowledging us. And we realized, then, that this was no monster. No, this creature was one of Arnak's legendary guardians.
 
 ### Guardians (Page 11)
 
@@ -365,8 +347,6 @@ An **idol in a slot cannot be moved**, so each slot can be used only once per ga
 
 ## Buy a Card (Page 12)
 
-Day 12 – I climbed a rock and cleared some branches to gain a better view of the path ahead. When I climbed down, the rock was now in sunlight, and I saw it was actually a priceless artifact.
-
 You improve your deck by buying artifacts and items from the card row.
 
 ### Card Row Overview (Page 12)
@@ -419,8 +399,6 @@ If a deck runs out of cards, then for cards of that type, you no longer slide ca
 
 ## Play a Card (Page 13)
 
-Day 13 – Ruby is a jaunty bird and I am glad we have her. She finds the most interesting things.
-
 ### To Play a Card (Page 13)
 
 1. **Play the card** from your hand face up into your play area.
@@ -449,15 +427,11 @@ Certain rules and effects send cards into **exile**, which is located at the top
 
 ##### PLAYING ARTIFACT CARDS (Page 13)
 
-When we found it, we thought we understood it. But now I begin to suspect the artifact hides yet more mysteries. Perhaps we shall find the answers in these ancient texts.
-
 All artifact effects have a (tablet icon with a rightward triangle) cost in the corner. When you buy the artifact, this cost is ignored and you perform the effect without paying it. But **whenever you play the artifact's effect from your hand, the (tablet icon with a rightward triangle) cost must be paid.**
 
 The artifact's effect may have other costs as well. These other costs must be paid every time you use the effect.
 
 ## Research (Page 14)
-
-Day 14 – A shattered spear. Some lines of text. Each lends meaning to the other. I take the time to contemplate these clues to Arnak's past.
 
 A research action moves one of your research tokens up to the next row of the research track:
 
@@ -567,8 +541,6 @@ This assistant needs a (icon of a single boot) to make you a (icon of an arrowhe
 
 ## Passing (Page 17)
 
-We have discovered such wonders today! Who knows what we shall find tomorrow?
-
 On your turn, you can **choose to pass** – inform the other players that you will take no more turns this round. Passing counts as your main action for the turn. At this time, you should also use up any free actions you still have available.
 
 If you take no other main action, then you must pass. It is not legal to take a turn with only free actions and no main action.
@@ -616,8 +588,6 @@ At the end of round V, all players take back their archaeologists and **gain *Fe
 
 ## Final Scoring (Page 18)
 
-Day 18 — I feel like this island still holds many secrets, but the time has come to return home and share our findings.
-
 At the end of the game, record everyone's points on the scoring sheet and add them up. Points can come from the following sources:
 
  - Each of your **research tokens** scores points based on its row. Magnifying glasses in the Lost Temple row will score points based on the order in which they reached the Lost Temple.
@@ -650,8 +620,6 @@ Break ties in favor of the player who reached the Lost Temple first. If no one r
 
 
 ## The Snake Temple Side (Page 19)
-
-Our ship was (covered text) nothing left. We tried to (covered text) but I fear that even here it shall find us!
 
 The first expedition to Arnak went rather poorly. No one has heard from them in quite some time. While you explore the island, keep your eye out for any survivors.
 
@@ -692,16 +660,12 @@ As usual, an exhausted assistant is refreshed when it is upgraded.
 
 ### Dreadful Tales! (Page 19)
 
-At first, we dismissed his stories as hallucinations resulting from the traumatic experience of being stranded for so long, but as we uncovered more secrets of Arnak …
-
 This magnifying glass effect means you *gain a *Fear* card!* Place it face up in your play area, ignoring its travel value.
 
 During setup, you dealt 2 or 3 bonus tiles to this row of the research track. When you move a research token there – magnifying glass or notebook – you **choose one of the tiles**. Only the tile you choose is removed.
 
 
 ## Solo Variant (Page 20)
-
-We thought we had kept this secret to ourselves. Somehow, others are here ahead of us!
 
 This solo variant allows you to enjoy the thrill of discovering the lost ruins even without another player to compete against.
 
