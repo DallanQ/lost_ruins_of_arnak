@@ -1,26 +1,73 @@
 [playing-a-card-to-overcome-a-guardian](https://boardgamegeek.com/thread/2732132/playing-a-card-to-overcome-a-guardian)
 
+> When you need a travel icon to overcome a guardian can you play a card to use the travel icon? Because the rules say you can only do one main action, but if you do this it would be two main actions because you are playing a card and overcoming a guardian. The other option would be to use a travel icon on an assistant which would not be using two main actions.
+
+Yes, you can use cards for travel icons to overcome a guardian. Paying a travel icon is not a main action in itself, you can use them to dig at a site, discover a new site or overcome a guardian (which are all main actions). You DO explicitly "play" a card for its travel icon, and doing so is not a main action. The rules are explicitly clear that you can "play" a card for its travel icon, or for its effect. If the effect does not have a lightning icon, then playing the card for its effect is a main action (and you must do exactly one main action per turn).
+
+See page 8: "You can play a card either for its travel icon or its effect but not both."
+
 [baroness-plus-connection-plus-rough-map](https://boardgamegeek.com/thread/2989118/baroness-plus-connection-plus-rough-map)
+
 
 [idol](https://boardgamegeek.com/thread/3194220/idol)
 
+> Can an idol still be used in a slot even when the idol's effect has not been used, i.e. a face up idol? For example, a player in one of our games had an idol who's effect was to flip over a guardian and re-use its boon. However, the guardian hadn't even been used, but an idol slot was still required.
+
+When you claim an idol, you must either use its effect immediately or forfeit it. The idol is then flipped over when taken to show the effect is no longer available. According to the rulebook, when you gain an idol, if you can't use the effect at that moment, the effect is lost, but you keep the idol face down. You can never have face-up idols on your player board.
+
 [archaelogist-placement](https://boardgamegeek.com/thread/2621084/archaelogist-placement)
+
+> Once you place an archaeologist (either to dig or to discover), they are permanently locked in that place until end of round (barring special cards that let you move them), correct?
+
+You are correct and the rule book is clear: unless by some card effect, your workers stay on the board until the end of the round. This contributes to the tight resource and action management of the game.
 
 [bonus-tiles-from-research](https://boardgamegeek.com/thread/3026493/bonus-tiles-from-research)
 
+> If I get a bonus tile that allows me to turn, for example, a tablet into a spear but I don’t have a tablet at the moment, do I lose the tile or can I keep it and use it later in the game?
+
+You are not able to save it for another turn, but you are allowed to resolve the research row's effect before resolving the bonus action. If you do not want to or cannot use it, you forfeit the bonus.
+
 [question-about-using-assistants](https://boardgamegeek.com/thread/2629526/question-about-using-assistants)
+
+> When using an assistant's ability to say get any resource token, does it have to be used immediately (spent), or can you collect a resource and place it in your inventory? For instance, can you collect a resource from an assistant's ability, then change him to his gold side, reset him, use the ability again, and collect more resources, then pass and use all the resources on a later turn?
+
+Resources gained from assistants are added to your supply; they do not need to be spent on the turn they are gained. However, note that if you "pass," that means you cannot take any more turns for that round. Most of the assistants are quick actions, meaning you still need to take a full action (using a card's action, sending a worker to a dig site, etc.) as part of your turn.
+
+> I bought the Ostrich item card and was wondering if you have to be able to complete the full action of the card in order to play the card as a main action? (I.E. play the ostrich card and draw a card from my deck but I don’t have an assistant in my ready area to play on a dig site or discover a site, can I just play the card to draw a card?)
+
+Those actions on the Ostrich say you "may" do them. Archeologists are not Assistants. Ostrich has nothing to do with assistants. You always evaluate effects in the order they are printed (keep in mind that some effects are optional and can be skipped, this is the case with Sturdy Boots, Sea Turtle, Ostrich, etc. where you can evaluate only part of the effect).
 
 [only-1-main-action-per-round](https://boardgamegeek.com/thread/2979928/only-1-main-action-per-round)
 
+> I noticed that you get only 1 Main Action/round. So this means in 1 round you get to either, play a card, buy a card, discover, dig, research, overcome a guardian and pass. Doesn't this feel very limiting? Since there are only 5 rounds, how do you achieve a lot of research, build a good deck, defeat guardians for points, etc ?
+
+It's one main action per turn - take as many turns in a round as you can. Players keep taking turns until everyone has passed, and then the round ends. This means you can have multiple actions in a round, and by creating combos of actions, you can take many turns, especially in the later rounds.
+
 [sites-with-slashes](https://boardgamegeek.com/thread/2963006/sites-with-slashes)
 
+> Any time you see a slash symbol means you get to choose one or the other correct resource ?
+
+Every time you see a slash, it means 'one or the other.' The rulebook clearly says 'choose,' and the player aid specifies that you can buy an item OR artifact. In this context, the slash indicates a choice between options, not 'per'.
+
 [can-you-use-a-research-assistant-between-the-row-e](https://boardgamegeek.com/thread/3113231/can-you-use-a-research-assistant-between-the-row-e)
+
+> Can you use a research assistant between the row effect and bonus tile?
+
+Yes, you can. The rules state that free actions may be used during a main action. Although the row effect and bonuses are resolved 'immediately,' the term 'during' implies that actions can be taken between these resolutions. Therefore, you can draw a card from the row effect, discard it to use your research assistant to gain an arrowhead, and then upgrade that arrowhead to a gem. The intent behind 'immediately' likely means you can't bank effects for later, not that you can't take quick actions in between.
 
 [sea-turtle](https://boardgamegeek.com/thread/3246421/sea-turtle)
 
 [gaining-fear-from-guardian](https://boardgamegeek.com/thread/2548646/gaining-fear-from-guardian)
 
+> One of the cards gives you the option to move your archeologist from one site to another site. Do you gain fear if you remove it from a site with a Guardian?
+
+No, you do not gain a *Fear* card in this situation. As you rightly note, gaining a *Fear* card from guardians is only checked at the end of round when you take your archaeologist back from a site that has a guardian on it. According to the rules, to avoid this, you may try to overcome the guardian as an action on a later turn. Or you might be able to escape the guardian with the help of certain cards that allow you to move your archaeologist or the guardian.
+
 [pilots-and-guardians](https://boardgamegeek.com/thread/2744503/pilots-and-guardians)
+
+> Can I hire a pilot for 2 coins and use it to defeat a guardian, or is the pilot only useful for traveling?
+
+Yes, you can use the pilot to defeat guardians. The plane or pilot can be used anywhere you would normally use a travel symbol, including to defeat guardians. Additionally, you can hire more than one plane per turn, so if you need two travel icons—either for travel or for overcoming a guardian—you can spend 4 coins.
 
 [how-long-is-the-duration-of-a-cards-effect](https://boardgamegeek.com/thread/2658922/how-long-is-the-duration-of-a-cards-effect)
 
