@@ -25,13 +25,13 @@ You are correct and the rule book is clear: unless by some card effect, your wor
 
 > If I get a bonus tile that allows me to turn, for example, a tablet into a spear but I don’t have a tablet at the moment, do I lose the tile or can I keep it and use it later in the game?
 
-You are not able to save it for another turn, but you are allowed to resolve the research row's effect before resolving the bonus action. If you do not want to or cannot use it, you forfeit the bonus.
+You are not able to save it for another turn, but the rulebook says "you are allowed to resolve the row’s effect before using the bonus tile, if you want." If you do not want to or cannot use it, you forfeit the bonus.
 
 [question-about-using-assistants](https://boardgamegeek.com/thread/2629526/question-about-using-assistants)
 
 > When using an assistant's ability to say get any resource token, does it have to be used immediately (spent), or can you collect a resource and place it in your inventory? For instance, can you collect a resource from an assistant's ability, then change him to his gold side, reset him, use the ability again, and collect more resources, then pass and use all the resources on a later turn?
 
-Resources gained from assistants are added to your supply; they do not need to be spent on the turn they are gained. However, note that if you "pass," that means you cannot take any more turns for that round. Most of the assistants are quick actions, meaning you still need to take a full action (using a card's action, sending a worker to a dig site, etc.) as part of your turn.
+Resources gained from assistants are added to your supply; they do not need to be spent on the turn they are gained. However, note that if you "pass," that means you cannot take any more turns for that round. Most of the assistants are quick actions, meaning you still need to take a full action (using a card's action, sending a worker to a dig site, Pass, etc.) as part of your turn.
 
 > I bought the Ostrich item card and was wondering if you have to be able to complete the full action of the card in order to play the card as a main action? (I.E. play the ostrich card and draw a card from my deck but I don’t have an assistant in my ready area to play on a dig site or discover a site, can I just play the card to draw a card?)
 
@@ -45,13 +45,13 @@ It's one main action per turn - take as many turns in a round as you can. Player
 
 [sites-with-slashes](https://boardgamegeek.com/thread/2963006/sites-with-slashes)
 
-> Any time you see a slash symbol means you get to choose one or the other correct resource ?
+> Any time you see a slash symbol it means you get to choose one or the other resource, correct ?
 
-Every time you see a slash, it means 'one or the other.' The rulebook clearly says 'choose,' and the player aid specifies that you can buy an item OR artifact. In this context, the slash indicates a choice between options, not 'per'.
+Every time you see a slash, it means 'one or the other.' The rulebook clearly says 'choose'. In this context, the slash indicates a choice between options, not 'per'.
 
 [can-you-use-a-research-assistant-between-the-row-e](https://boardgamegeek.com/thread/3113231/can-you-use-a-research-assistant-between-the-row-e)
 
-> Can you use a research assistant between the row effect and bonus tile?
+> Can you resolve a row effect and then use a research assistant before resolving the bonus tile in the research track?
 
 Yes, you can. The rules state that free actions may be used during a main action. Although the row effect and bonuses are resolved 'immediately,' the term 'during' implies that actions can be taken between these resolutions. Therefore, you can draw a card from the row effect, discard it to use your research assistant to gain an arrowhead, and then upgrade that arrowhead to a gem. The intent behind 'immediately' likely means you can't bank effects for later, not that you can't take quick actions in between.
 
@@ -67,7 +67,7 @@ No, you do not gain a *Fear* card in this situation. As you rightly note, gainin
 
 > Can I hire a pilot for 2 coins and use it to defeat a guardian, or is the pilot only useful for traveling?
 
-Yes, you can use the pilot to defeat guardians. The plane or pilot can be used anywhere you would normally use a travel symbol, including to defeat guardians. Additionally, you can hire more than one plane per turn, so if you need two travel icons—either for travel or for overcoming a guardian—you can spend 4 coins.
+Yes, you can use the pilot to defeat guardians. The plane or pilot can be used anywhere you would normally use a travel symbol, including to defeat guardians.
 
 [how-long-is-the-duration-of-a-cards-effect](https://boardgamegeek.com/thread/2658922/how-long-is-the-duration-of-a-cards-effect)
 
