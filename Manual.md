@@ -4,7 +4,7 @@
 
 Use the side with the **Bird Temple** for your first game.
 
-> Bird Temple: A red temple shaped like a bird
+> image of Bird Temple: A red temple shaped like a bird
 
 The Snake Temple side follows special rules which are explained on page 19.
 
@@ -18,7 +18,7 @@ The card row offers items and artifacts you can get during play. Be sure they ar
 
 3. (icon of items card represented by a hand trowel.) **Items.** Shuffle the items deck face down and place it on the marked space.
 
-4 **Moon Staff.** Place the moon staff in the card row, as shown, indicating it is round I.
+4. **Moon Staff.** Place the moon staff in the card row, as shown, indicating it is round I.
 
 5. **Deal 1 artifact** to the card row, face up, to the left of the moon staff.
 
@@ -275,7 +275,7 @@ If a cost requires two icons, you can cover it with travel values from two sourc
 
 It's also possible that you have a card that gives you two icons all by itself. Such a card can also cover a one-icon cost, but in that case, the extra icon will probably be wasted. It does not carry over to your next turn.
 
-#### Exapmles (Page 9)
+#### Examples (Page 9)
 
 > image of a ship icon on the left followed by ship, airplane, and two-coin icons all with green checkmarks indicating they can be used to pay for the ship travel, followed by carriage and boot icons with red X's indicating they cannot be used to pay for the thip travel.
 > image of a two-carriage icon on the left followed by two-airplane, two carriage, an airplane and a carriage, a carriage and two coins, and two two-coin icons all with green checkmarks indicating they can be used to pay for the two-carriage travel, follwed by a two-ship icon with a red X indicating it cannot be used to pay for the two-carriage travel.
@@ -665,8 +665,8 @@ Unlike assistants from the supply board, the assistant you rescue is **exhausted
 
 1. *She removes an idol from her supply crates and returns it to the box.*
 
-2. *She advances her magnifying glass.
-*
+2. *She advances her magnifying glass.*
+
 3. *She looks through the stack of assistants and selects the sea captain.*
 
 4. *The sea captain is exhausted from being marooned on Arnak so long. Red will not be able to use his ability until he is refreshed.*
