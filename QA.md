@@ -341,13 +341,47 @@ An "unoccupied" site is defined as one where no one has an archaeologist figure 
 
 [can-you-play-a-free-action-without-playing-a-main](https://boardgamegeek.com/thread/3124362/can-you-play-a-free-action-without-playing-a-main)
 
+> Can you play a free action without playing a main action?
+
+No. You must do a main action. However, passing is a main action. This means you can perform free actions and then PASS as your main action, which finishes your turn for the round The rulebook confirms this:
+
+"If you take no other main action, then you must pass. It is not legal to take a turn with only free actions and no main action" (Page 17, under Passing).
+
+Additionally, the rules state on Page 8:
+
+"Choose one of these actions as the main action for your turn: Dig at a Site, Discover a New Site, Overcome a Guardian, Buy a Card, Play a Card, Research, Pass."
+
+*Pass* is explicitly listed as a main action, and the rules for free actions indicate they can be played at any time during a turn, regardless of the chosen main action.
+
 [bga-noob-question-about-research](https://boardgamegeek.com/thread/3091132/bga-noob-question-about-research)
+
+> Do research markers work only directly upwards? E.g. if you go left path, do you have to stick to left path with either the magnifying glass or the notebook?
+
+Yes, you always have to move upwards to a connecting box, so you can’t go to the side. According to the rulebook: “A research action moves one of your research tokens up to the next row of the research track.” Additionally, “You can only move up into a space that is connected to your current space. Sometimes this leaves you with only one choice.” It's important to note that you can only move your marker to connected spaces, which means that moving across an empty gap is not allowed.
 
 [can-you-move-your-workers](https://boardgamegeek.com/thread/2667344/can-you-move-your-workers)
 
+> Can you move your workers, or can you only move your 2 workers once?
+
+Standard gameplay involves placing each of your two workers once per round, with a total of five rounds in the game. However, certain cards allow you to reclaim a worker or move a worker.
+
 [overpay-cost-for-trade-assistant](https://boardgamegeek.com/thread/2771706/overpay-cost-for-trade-assistant)
 
+> For the trade assistant that allows you to trade boot for Arrowhead, can you pay with a Jeep or Boat, or can it only be exactly what’s printed on it?
+
+You can overpay for a travel cost icon. As mentioned in the rules, it is possible to pay with different icons in the same way as travel costs. The hierarchy chart of travel cost icons indicates that an airplane covers any icon, and a boat or a car can cover a boot icon. Just remember, you cannot pay for a car with a boat, or vice versa.
+
 [guardians-crown-getting-token](https://boardgamegeek.com/thread/2759106/guardians-crown-getting-token)
+
+> The card "Guardian's Crown" allows you to "Move a guardian from a site you occupy to an unoccupied tent or level 1 site with no guardian. Activate that site." Does this mean that when you activate the site, it functions similarly to placing an archaeologist? This seems quite powerful to me
+
+It's not "too powerful" - it costs 4 compasses to buy the card for starters. And yes, you move the guardian to an unoccupied site as described and activate it. "Activate a site" and "unoccupied site" are both defined on the back of the rulebook:
+
+"**activate a site**: When you activate a site, you use the site’s effect. You do not need an archaeologist there and other players’ archaeologists do not block you from activating the site, unless the card says otherwise. You do not pay any travel cost. You cannot activate a site that has not been discovered yet."
+
+"**unoccupied site**: A site is unoccupied if no one has an archaeologist figure there. (Guardian tiles do not count as occupying a site.) An occupied (Tent) site might still have an unoccupied space even though the site is considered “occupied”."
+
+So no, you don't get an idol because you cannot activate a site that has not been discovered yet. You just get the tokens shown on the destination site's tile.
 
 [expansion-questions-after-first-playthrough](https://boardgamegeek.com/thread/2756096/expansion-questions-after-first-playthrough)
 
@@ -355,21 +389,81 @@ An "unoccupied" site is defined as one where no one has an archaeologist figure 
 
 [artifact-buying](https://boardgamegeek.com/thread/2817517/artifact-buying)
 
+> When you buy artifact you get to use it for free (without tablet). Does this artifact action has to be performed immediately when you buy it or you can save this free action for beter moment later?
+
+You must use the artifact's effect immediately when you acquire it. The rulebook on page 12, "Buy a card", state that you "have the option to immediately resolve its effect." If you want to wait to use it, you'll need to wait to buy it, but that could risk someone else purchasing it first.
+
 [buying-tiles-at-the-top-of-the-temple](https://boardgamegeek.com/thread/2673260/buying-tiles-at-the-top-of-the-temple)
+
+> Do I have to work my way up this tree or I could buy any tile if I can pay the right costs? I assume one could buy the best tile right away.
+
+Once you are in the temple you can buy any tile you like. You must be at the top of the research track to buy temple tiles, and you can purchase as many tiles of the same kind as you like during the game, but only one tile per action. (Rulebook, page 14: "If you choose to research with your magnifying glass when it is already in the Lost Temple, instead of paying to advance the token, you pay to take 1 temple tile from any one of the stacks.")
 
 [can-i-use-star-charts-effect-on-occupied-sites](https://boardgamegeek.com/thread/2917479/can-i-use-star-charts-effect-on-occupied-sites)
 
 [ancient-wine-and-decorated-horn-question](https://boardgamegeek.com/thread/2653096/ancient-wine-and-decorated-horn-question)
 
+> Does 'available on the supply board' mean the assistant on the top of the stacks only?
+
+Yes, 'available on the supply board' refers to the assistants on the top of the stacks. As stated on page 15 of the rules, Recruiting Assistants:
+
+"When you move your notebook to a row with this symbol, choose one of the assistants available on the supply board. (Usually, there are 3; however, some of the stacks might be empty later in the game.)"
+
+"Note: Assistants not on top are supposed to be kept hidden so that no one knows what they are until the assistant above them has been taken."
+
+"Set the assistant on one of the assistant squares on your player board. The silver side should be face up.
+Assistants have various effects. If the effect is a free action, you have the option to use it immediately, or you can save it for later."
+
+Thus when recruiting assistants, you can choose one of the assistants available on the supply board, which usually means the top three assistants.
+
 [dig-at-a-site-rule](https://boardgamegeek.com/thread/2655811/dig-at-a-site-rule)
 
+> Is it allowed to dig at a site where my archaeologist is already located on a subsequent turn?
+
+No, it is not allowed. According to the rulebook on page 9, to dig at a site, you must move your archaeologist to that space, which requires that the space be unoccupied. Since your archaeologist is already at the site, you cannot activate it again for additional rewards.
+
+Rulebook, page 9:
+
+To Dig at a Site
+1. Pay the travel cost depicted on the space to which you want to send your archaeologist. The space must be unoccupied. (That is, it must have no archaeologist figure on it, and in a 2- or 3-player game, it must have no blocking tile.)
+2. Move your archaeologist from your player board to that space.
+3. Resolve the effect depicted at the site.
+
 [question-about-exploring](https://boardgamegeek.com/thread/3222709/question-about-exploring)
+
+> Everyone gets two archaeologists to explore. Once placed on the board to rent locations, can I travel further with my archaeologists within the same round after placing them on the board?
+
+No, you cannot travel further with your archaeologists after placing them on the board during the same round. According to the rules, when you place an archaeologist on the board, they remain at that location for the round. You can only move an archaeologist from your player board to an unoccupied site, unless you have a card that allows for additional movement.
 
 [travel-costs](https://boardgamegeek.com/thread/2947446/travel-costs)
 
 [when-rival-wants-to-get-rubymoneytabs-how-do-you-c](https://boardgamegeek.com/thread/2939577/when-rival-wants-to-get-rubymoneytabs-how-do-you-c)
 
+> When the rival wants to gather resources like rubies, money, or tablets, how do you choose the location?
+
+As stated in the rulebook: "A site in a higher row is preferred over a site in a lower row. Between sites in the same row, your rival prefers the site farther on the left or the right, as determined by the decision arrow."
+
+So, if no sites in the second level are discovered yet or available, the rival will go to the first level and choose either left or right.
+
 [cards-held-open-or-secretly](https://boardgamegeek.com/thread/2720718/cards-held-open-or-secretly)
+
+> When I draw cards, do I have to show them to the others or can I keep them hidden?
+
+Cards drawn and cards played are two separate things. As stated in the rulebook on page 7, 
+
+Rulebook, page 7:
+
+"Each round proceeds as follows:
+
+1. Draw. All players draw from their decks until they have a hand of 5 cards."
+
+Unless a game's rules specifically state otherwise, a 'hand' is private information for the player concerned". Therefore, the cards you draw from your deck and hold in your hand are not public info; only you can see them. However, when you play a card, it becomes visible. As clarified on page 13:
+
+Rulebook, page 13:
+
+To Play a Card
+
+"1. Play the card from your hand face up into your play area."
 
 [you-may-exile-one-item-from-the-card-row-and-refil](https://boardgamegeek.com/thread/2981389/you-may-exile-one-item-from-the-card-row-and-refil)
 
