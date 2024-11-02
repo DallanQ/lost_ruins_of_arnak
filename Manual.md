@@ -231,7 +231,7 @@ Your play area is basically a spread-out discard pile. Cards accumulate from tur
 
 ## Dig at a Site (Page 9)
 
-As your main action for your turn, you can send one of your archaeologists to dig at any of the 5 sites. You will also be able to dig at **I** and **II** sites after they have been discovered.
+As your main action for your turn, you can send one of your archaeologists to dig at any of the 5 (tent) sites. You will also be able to dig at **I** and **II** sites after they have been discovered.
 
 ### To Dig at a Site (Page 9)
 

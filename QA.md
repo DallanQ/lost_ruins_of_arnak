@@ -151,12 +151,12 @@ According to the rulebook in page 23, Reserve tiles serve two main purposes:
 are close to running out of tokens. Each token on 
 the tile counts as 3. Tokens on the supply board are 
 not intended to be limited.
-2. The other side of the tile is a fear tile. If you are 
-supposed to take a Fear card when the Fear deck is 
-empty, you take a fear tile instead. It will be worth 
--2 points during final scoring. Keep the fear tile in 
+2. The other side of the tile is a *fear* tile. If you are 
+supposed to take a *Fear* card when the *Fear* deck is 
+empty, you take a *fear* tile instead. It will be worth 
+-2 points during final scoring. Keep the *fear* tile in 
 your play area. If you have a chance to exile a card 
-from your play area, you may exile the fear tile 
+from your play area, you may exile the *fear* tile 
 instead.
 
 In playtesting, we needed these tiles only in extremely 
@@ -195,9 +195,9 @@ According to the rulebook in page 13:
 
 The Binoculars card allows you to activate any Level 1 site without placing an archaeologist there, meaning you do not interact with or reveal a guardian at that site. Activating means using the benefits of a site tile that is already on the board. You don't need to place an archaeologist there.
 
-Visiting an existing site doesn’t reveal a new guardian. Guardians only give a fear card at the end of a round when you retrieve your explorer from a site with a guardian.
+Visiting an existing site doesn’t reveal a new guardian. Guardians only give a *fear* card at the end of a round when you retrieve your explorer from a site with a guardian.
 
-According to the rulebook, page 24: "When you activate a site, you use the site’s effect. You do not need an archaeologist there and other players’ archaeologists do not block you from activating the site." Therefore, using the Binoculars card does not involve defeating a guardian or receiving a fear card since you are only activating an already discovered site.
+According to the rulebook, page 24: "When you activate a site, you use the site’s effect. You do not need an archaeologist there and other players’ archaeologists do not block you from activating the site." Therefore, using the Binoculars card does not involve defeating a guardian or receiving a *fear* card since you are only activating an already discovered site.
 
 [does-flask-have-to-be-played-for-exile-bonus-or-ca](https://boardgamegeek.com/thread/2673668/does-flask-have-to-be-played-for-exile-bonus-or-ca)
 
@@ -227,7 +227,7 @@ The Rival doesn't slot assistants on their board, so I don't believe there is a 
 
 > If I draw two fear cards and end up with one as my last card in play area and have already moved my explorers, do I have to just keep it until the next turn or can I use it to move one of my explorers a second time?
 
-You cannot use a fear card to move an archaeologist a second time. They stay put once placed, unless a card action lets you relocate them. You use the main action "Pass", put the card in your play area or not by carrying it over, and deal with it at end of round cleanup.
+You cannot use a *fear* card to move an archaeologist a second time. They stay put once placed, unless a card action lets you relocate them. You use the main action "Pass", put the card in your play area or not by carrying it over, and deal with it at end of round cleanup.
 
 According to the rulebook, page 17, it states that "Usually your hand will be empty. But if you have cards left, each card can be discarded to your play area or saved for the next round."
 
@@ -249,7 +249,7 @@ If a site has an archeologist, then it is clearly not "an unoccupied site", whic
 
 > The card says "Gain an item and place it on the top of your deck." Where do I get the item from? Do I take one from the available items in the row, do I draw a random one from the deck or am I missing something else I should do?
 
-According to the rulebook, page 24, states that "When you gain an item, it means you do not pay the cost. Unless otherwise stated, this is identical to the Buy a Card action, except you skip the step in which the cost is paid." So you take it from the card row (available items), not from the deck. Now you are sure which card you'll draw next round, or when you play an appropriate card to take the just gained item. If you could draw from the deck, you'll (almost) never kno what item you get.
+According to the rulebook, page 24, states that "When you gain an item, it means you do not pay the cost. Unless otherwise stated, this is identical to the Buy a Card action, except you skip the step in which the cost is paid." So you take it from the card row (available items), not from the deck. Now you are sure which card you'll draw next round, or when you play an appropriate card to take the just gained item. If you could draw from the deck, you'll (almost) never know what item you get.
 
 [do-you-get-site-effects-when-revisiting-site](https://boardgamegeek.com/thread/2636212/do-you-get-site-effects-when-revisiting-site)
 
@@ -257,7 +257,7 @@ According to the rulebook, page 24, states that "When you gain an item, it means
 
 Yes, you do get the site effects again when you revisit a site, as long as you pay the travel costs and the site is unoccupied (no other figures are present). Each time you transport your worker to an available site, you will receive all the rewards on the tile.
 
-If you have an archaeologist at a site and then move to another site, your archaeologist remains there until the end of the round unless moved by an effect of an item or artifact. If there is a Guardian at the site when you take your worker back, you will receive 1 fear card.
+If you have an archaeologist at a site and then move to another site, your archaeologist remains there until the end of the round unless moved by an effect of an item or artifact. If there is a Guardian at the site when you take your worker back, you will receive 1 *fear* card.
 
 > Do you only get one turn per round? Or as many as you need before you can't do anything more?
 
@@ -305,7 +305,7 @@ This means that the card performs its own exile when you trigger its effect, all
 
 > Can a fear card be played as a cost when instructed to do so by a campspace or card, without triggering its movement icon or ability?
 
-You can discard any card in your hand if a camp site or card instructs you to. So in your example, you could use a boot to go to the camp site, and then discard any card (even a fear card) to get the ruby.
+You can discard any card in your hand if a camp site or card instructs you to. So in your example, you could use a boot to go to the camp site, and then discard any card (even a *fear* card) to get the ruby.
 
 [blocking-tiles](https://boardgamegeek.com/thread/2888895/blocking-tiles)
 
@@ -313,11 +313,11 @@ You can discard any card in your hand if a camp site or card instructs you to. S
 
 > When I gain a fear card, where does it go?
 
-When you gain a fear card, it is placed face up in your play area. This means it will have no effect during the current round and will be moved to your discard pile at the end of the round unless you can exile it sooner.
+When you gain a *fear* card, it is placed face up in your play area. This means it will have no effect during the current round and will be moved to your discard pile at the end of the round unless you can exile it sooner.
 
 As specified in the rulebook:
 
-"Gain a Fear card and the indicated tokens. You must take a Fear card from the board and put it face up in your play area."
+"Gain a *Fear* card and the indicated tokens. You must take a *Fear* card from the board and put it face up in your play area."
 
 [use-cursed-totem-on-blue-idol-slots](https://boardgamegeek.com/thread/3251820/use-cursed-totem-on-blue-idol-slots)
 
@@ -469,45 +469,171 @@ To Play a Card
 
 [how-many-turns-can-you-take-per-roundjust-two](https://boardgamegeek.com/thread/2627899/how-many-turns-can-you-take-per-roundjust-two)
 
+> How many turns can you take per round... just two? I am assuming just 2 since you have two meeples, although, I guess there are other things to do that do not require meeples to be assigned to a spot?
+
+While you have two meeples, your turns are not limited to just two actions. You can take one main action per turn, plus an unlimited number of free actions. As noted in the rulebook, 
+
+"2. Take turns. The player with the starting player marker starts. Players take turns clockwise around the table. You are limited to one main action on your turn, plus an unlimited number of free actions." 
+
+"3. Pass. On your turn, you may pass to indicate you are done playing for the remainder of the Round. The other players continue taking turns until all players have passed." (page 7).
+
+The rulebook lists various main actions, including Dig at a Site, Discover a New Site, Overcome a Guardian, Buy a Card, Play a Card, Research, and Pass (page 8). This means that, depending on your resources, you can perform multiple actions in a round by chaining these actions together.
+
+Passing is specifically a Main Action. When a player Passes, they can take no more turns in that round. When everyone passes, the Round ends. Page 17 elaborates on this:
+
+"On your turn, you can choose to pass – inform the other players that you will take no more turns this round. Passing counts as your main action for the turn. At this time, you should also use up any free actions you still have available.
+
+If you take no other main action, then you must pass. It is not legal to take a turn with only free actions and no main action.
+
+Once you have passed, you get no more turns for the rest of the round. The flow of play continues clockwise, but it skips over you. Conversely, if you are the only player left who has not yet passed, then you can take multiple turns in a row.
+
+The round ends when all players have passed." (Rulebook page 17)
+
+If you're unable to take any other Main Action, you must Pass, which counts as your main action for that turn. You can choose to Pass at any point as a Main Action, though doing so means you won’t take any further turns in that round (which may not always be ideal). Play continues with each player taking their turn in sequence until everyone has passed, at which point the round ends. So, depending on your strategy and resources, you can potentially take many turns within a round.
+
 [normal-setup-v-lost-expedition](https://boardgamegeek.com/thread/3296744/normal-setup-v-lost-expedition)
 
 [fear-card](https://boardgamegeek.com/thread/3102743/fear-card)
 
+> Can I use one of my "fear" cards to "use up a card" to get a jewel at the lower rightmost dig site?
+
+Yes, you can use *fear* cards as discards. According to the rulebook, on page 8, it states, "A *Fear* card has no effect. It can however be used for its travel value." Additionally, on page 24, it mentions, "You pay this cost by putting one of the cards in your hand face up into your play area, ignoring the card’s travel value and effect." This means you can discard a *fear* card to fulfill a requirement without using its boot value. Just keep in mind that while *fear* cards can be useful in this way, they do not contribute positively to your victory points.
+
 [assistent](https://boardgamegeek.com/thread/2559231/assistent)
+
+> If I already have two assistants, is it possible to take a third?
+
+No, you cannot take a third assistant. According to the rulebook, you are allowed to take only two silver assistants from the research track and then upgrade them to gold assistants as you progress. There is no game mechanic that allows you to gain a third assistant, and the only related card allows you to exchange one of your existing assistants.
 
 [airdrop-card](https://boardgamegeek.com/thread/2566844/airdrop-card)
 
+> How do you use the Airdrop card? Do you take an item card from the play area, from the deck, or do you take one from the display for free?
+
+When you use the Airdrop card, you exile it (place it at the top of the game board) to gain an item from the card row for free. Unlike most gained items that go to the bottom of your draw deck, the item you gain with Airdrop goes directly to your hand. So, to clarify, you take the item from the display.
+
 [final-scoring-and-leftover-tokens](https://boardgamegeek.com/thread/2580234/final-scoring-and-leftover-tokens)
+
+> At the end of the game, is there any scoring for leftover tokens? For example, if I end with two parchments and two jewels but needed arrowheads to move up the research track, it feels strange not to get anything for leftover tokens.
+
+The game is designed around clever planning and resource management. You don't score for leftover tokens because the game rewards you for using your resources efficiently rather than hoarding them. Many games operate this way, emphasizing the importance of utilizing what you have instead of accumulating excess resources. If you find yourself with leftover tokens, it highlights the challenge of making the most of your opportunities throughout the game.
 
 [artifact-pass-to-gain-as-last-player](https://boardgamegeek.com/thread/2820367/artifact-pass-to-gain-as-last-player)
 
+> In a two-player game, if my opponent passes and I'm the last player, can I play an artifact that says "Gain 2 coins or Pass to Gain 3 coins"? Can I pay the cost and declare that I pass to gain the 3 coins?
+
+Yes, you can play the artifact and then pass to gain the 3 coins. The rule states: "On your turn, you may pass to indicate you are done playing for the remainder of the round." Since you are the only player still taking actions, you are allowed to activate the artifact and then pass to end your turn. This is a valid action and helps to avoid the situation where the last player is stuck without options.
+
 [solo-game](https://boardgamegeek.com/thread/2890984/solo-game)
+
+> When your rival gets to do the "dig at a site" option, does he need the site to be discovered first?
+
+Discover a new site" is a different rival action than "Dig at a site." If you draw a "Dig a site" tile, the rival digs at the proper site (if still available), but the rival does NOT discover a new site. So, yes, the rival only digs at already discovered sites.
+
+> About the temple tiles, can the rival only have one 6-point tile, or can they accumulate more?
+
+The rival takes a 6-point tile every time they get a research action and it is on the topmost row of the temple. "Each tile will be 6 points in end game scoring for the rival." In the solo game setup, there are 6 stacks of temple tiles, with 2 containing 6-point tiles. Each stack has as many tiles as there are players. So in a 2-player game, there are 4 available 6-point tiles. If one stack is empty, the rival takes from the other stack without needing the decision arrow.
+
+This means it’s possible for the rival to take all 4 tiles, potentially gaining 24 points in end game scoring.
 
 [the-discount-assistant](https://boardgamegeek.com/thread/2761974/the-discount-assistant)
 
+> Can I buy an item card or artifact card with a discount that makes the price of coins or compasses zero?
+
+Yes, you can buy an item or artifact card with a discount that makes the cost effectively zero. However, it's important to note that the discount provided by the assistant is only a one-time action, not a permanent one. When you use an assistant, it will become exhausted, meaning you won't be able to use it repeatedly for free purchases in the same round.
+
 [can-i-use-main-action-research-to-refresh-assistan](https://boardgamegeek.com/thread/3319949/can-i-use-main-action-research-to-refresh-assistan)
 
+> Can I use a main action research to refresh an assistant?
+
+No, you cannot use a main action research to refresh an assistant. According to the rulebook Page 16, Using Assistants, 
+
+"To use your assistant, turn it sideways, as shown. 
+A sideways assistant is exhausted and not available for 
+use. In general, you can use an assistant’s effect only once per round. At the end of the round, all assistants are refreshed – turned right way up again." (Rulebook page 16)
+
+Specifically, when moving your notebook to a row with the gold assistant icon on the research board, you can upgrade one of your assistants to the gold level and refresh it, even if its silver effect was used earlier in the round. 
+
+"However, certain card effects might refresh an assistant during the round, allowing it to be used again, perhaps even immediately" (Rulebook page 16).
+
 [buying-an-artifact-and-then-using-the-travel-icon](https://boardgamegeek.com/thread/3323542/buying-an-artifact-and-then-using-the-travel-icon)
+
+> After buying an Artifact you can resolve its effect immediately, ignoring the cost of paying a Tablet.
+But I want to use the Plane icon. Is that possible?
+
+No, you cannot use the Plane icon immediately after buying an artifact. When you purchase an artifact, you can resolve its effect right away, but this is considered part of your main action for the turn. As the rulebook states, "When you buy an artifact, you get to resolve its effect. That effect might be another action, like sending an archeologist to dig at a site. All this is considered to be part of your main action for the turn." (Rulebook Page 12)
+
+This means that while you can resolve the artifact's effect immediately, the artifact is placed in your play area and cannot be used again until you draw it in a subsequent round. Therefore, you cannot use the artifact's travel icon until later when you have it in hand again.
 
 [solo-purple-overcome-a-guardian](https://boardgamegeek.com/thread/2738529/solo-purple-overcome-a-guardian)
 
 [solo-play-ai-gaining-assistants](https://boardgamegeek.com/thread/2545185/solo-play-ai-gaining-assistants)
 
+> A human player can ever only gain 2 assistants by game design. The AI can theoretically do the action more often. When the AI already has 2 assistants, does it still gain more assistants?
+
+No, the AI cannot gain more assistants once it has 2. The AI do not gain the assistants, just remove them from the game." While a human player can only gain 2 assistants, the AI can perform the action to remove assistants more than twice.
+
+It also has "no assistant spaces on the AI board." The AI removes an assistant each time it researches with its research tile, but this does not apply when it researches with the "defeat a guardian" tile. It removes one assistant per round but does not gain new assistants.
+
 [guardian-s-crown](https://boardgamegeek.com/thread/2558870/guardian-s-crown)
+
+> Can the Guardian's Crown card move a guardian to an unoccupied tent site or level one site? Is it intentional for a guardian to be placed at a tent site?
+
+ Yes, this is correct. The Guardian's Crown card intentionally allows you to move a guardian to any unoccupied tent or level 1 site. The card does not defeat the guardian; it simply chases it to another location, including tent sites. This design choice fits the game mechanics since basecamp sites can be dug for items, and a guardian can logically “protect” these sites, adding an element of challenge.
+
+ >  If all other players pass, should I slide cards after my main action, or is it one long turn for me?
+
+ Even when all other players have passed, your turn doesn’t become “one long turn.” Instead, you still have multiple turns, each consisting of a main action and any number of free actions.
+
+ > Why can't I pick the better idol reward at a level two site?
+
+ You do not get to pick the effect among the two idols at a level 2 site. During setup, you place two idols at each level 2 site, one face up and one face down. Notice this rule when using the Discover a Site action: "If the site has two idols, you take them both, but use only the effect of the face-up one" (Rulebook page 10). The advantage of discovering a level 2 site compared to a level 1 site is that you get an additional 3 points, but you still only get one idol effect, and you do not choose.
 
 [is-exile-cards-effect-mandatory](https://boardgamegeek.com/thread/2577530/is-exile-cards-effect-mandatory)
 
+> Is the exile card effect mandatory? Can I just get the resources without exiling the card?
+
+The Exile effect is optional. On page 24 of the rulebook, it reads: "You may choose a card in your hand or in your play area and send it to exile (as explained on page 13)"
+
 [activate-a-site-with-a-guardian](https://boardgamegeek.com/thread/2871102/activate-a-site-with-a-guardian)
+
+> Can I activate a site (with an artifact card) where there is already a guardian?
+
+Yes. A guardian on a site never prevents you to dig on that site or to activate it. If you move your archaeologist to such a site, you gain the site reward, can overcome the guardian in a next turn or get a *fear* card if you do not before the end of the round."
+The description of 'activate a site' is on the back of the rulebook:
+
+"activate a site: When you activate a site, you use the site’s effect. You do not need an archaeologist there and other players’ archaeologists do not block you from activating the site, unless the card says otherwise. You do not pay any travel cost. You cannot activate a site that has not been discovered yet." (Rulebook page 24)
 
 [soothsayers-runes-promo-in-solo](https://boardgamegeek.com/thread/2779736/soothsayers-runes-promo-in-solo)
 
 [must-you-declare-main-action-before-taking-free-ac](https://boardgamegeek.com/thread/2762234/must-you-declare-main-action-before-taking-free-ac)
 
+> Must you declare your Main Action before taking Free Actions? Can you take a free action, like "Draw a Card," then decide on your Main Action?
+
+No, you don’t have to declare what you’re going to do. So first drawing cards is probably the best thing to do. In page 23 of the manual, it states:
+
+"Free Actions: During your turn, you may perform any number of free actions before, during, or after your main action."
+
+The rules do not specify you have to 'declare' your actions. Although it is always good to do so, because everyone can see and understand what you do and prevent mistakes. For example: If you declare you are going to buy an item, and you do not have enough coins, you still can play free actions first to gain them.
+
 [getting-benefits-from-exile](https://boardgamegeek.com/thread/2843748/getting-benefits-from-exile)
+
+> The rulebook states "exile this card to: When you play the card for its effect, it goes to exile instead of your play area." Does this mean that if you exile a card with exile benefits by other means different than playing it -i.e. a reward for climbing up on the research track- you will get no benefit because you have strictly to play the card for its effect?
+
+Yes. If you exile the Airdrop from your play area by means of the research reward, you just exile the Airdrop card and do not gain benefits from the card effect. Exiling a card is the reward, and performing the exile in this way, it does never trigger the (exile) reward from the exiled card.
+
+When you play Airdrop for its card effect, you place the Airdrop card on the exile stack, and gain an item from the card row directly into your hand.
 
 [overcoming-guardian-research-tracker](https://boardgamegeek.com/thread/2777954/overcoming-guardian-research-tracker)
 
 [solo-turn-end-clarification](https://boardgamegeek.com/thread/3226753/solo-turn-end-clarification)
+
+> Can I continue taking turns and using main actions once the rival action stack is depleted in a solo game?
+
+Yes correct, as stated in the base game rules on page 20:
+
+"During the round, your rival and you alternate turns, as you would in a two-player game. Your rival does not pass until they have played all 10 action tiles, even if you have already passed."
+
+When your opponent in a 2 player game has passed, you keep on taking turns until you pass. Same here with the Rival. If the Rival has taken their 10 turns, you keep on taking turns until you pass.
 
 [campaign-question](https://boardgamegeek.com/thread/2664485/campaign-question)
 
@@ -517,31 +643,141 @@ To Play a Card
 
 [using-double-movement-icons](https://boardgamegeek.com/thread/2673582/using-double-movement-icons)
 
+>  If you have a card like Sea Turtle with two ship movements, can you use one as a boot to put your archaeologist on a campsite and then use the other icon to put your other archaeologist on a level one ship site?
+
+You cannot dig (or discover) at two sites in a single turn. You can play a double movement icon to send one worker to one site. That is your main action, and you do only one main action in a turn." The rulebook in page 9 reads:
+
+"As your main action for your turn, you can send one of your archaeologists to dig at any of the 5 *tent* sites. You will also be able to dig at and **1** and **2** sites after they have been discovered."
+
+This means using two archaeologists would require two separate dig actions, effectively counting as two unique main actions.
+
 [coconut-flask-plus-discount-assistant](https://boardgamegeek.com/thread/2752572/coconut-flask-plus-discount-assistant)
+
+> The rules state that movement points gained from assistants triggered by the Coconut Flask are (usually) lost unless they can somehow be used for a secondary action before the end of the turn. However, they do not state anything about triggering the Discount Assistant who counts as a main action. Can you combine the Coconut Flask and the Discount Assistant in a single turn to do two main actions?
+
+Coconut Flask just activates the ability on an assistant. Thus, activating the discount assistant is the effect of your main action, the Coconut Flask. It's a legal move. This means you can legally use the Coconut Flask to activate the Discount Assistant without violating the rule of one main action per turn.
 
 [buy-artifact-question](https://boardgamegeek.com/thread/3163913/buy-artifact-question)
 
+> When buying an Artifact, do the coins shown on Ancient Wine and Coconut Flask represent costs or gains?
+
+The coins shown on Ancient Wine and Coconut Flask are gains, not costs. According to the manual, *Buy a Card*. on page 12, it reads:
+
+
+1. Choose an artifact in the card row.
+2. Pay the cost depicted at the bottom of the card.
+3. Move the artifact to your play area. You have the 
+option to immediately resolve its effect, ignoring 
+the cost in the corner.
+4. Refill the card row
+
+and on page 13, *Play a Card*:
+
+"When you play an artifact, you also have to pay a special tablet cost, as explained in the box on this page. That rule does not apply to items."
+
+
 [pathfinder-sandals-rule-clarification](https://boardgamegeek.com/thread/2743540/pathfinder-sandals-rule-clarification)
+
+> Can I relocate an archaeologist that is at a site with a guardian using the Pathfinder sandals, and do I take a fear card?
+
+Yes, you can relocate an archaeologist at a site with a guardian using the Pathfinder sandals. According to the rulebook on page 10, it reads:
+
+"The guardian does not affect you immediately. However, at the end of the round you will gain a *Fear* card when you take your archaeologist back from a site that has a guardian on it. (See page 17.)"
+
+"To avoid this, you may try to overcome the guardian as an action on a later turn. (See the facing page.) Or you might be able to escape the guardian with the help of certain cards that allow you to move your archaeologist or the guardian."
+
+Therefore, you will not take a *fear* card immediately upon relocating, but you will if you return to that site at the end of the round.
 
 [what-does-played-cards-accumulate-mean](https://boardgamegeek.com/thread/2974287/what-does-played-cards-accumulate-mean)
 
+> The rulebook says that played cards stay in the play area during the whole round. Are they only to be used at the time they are played and paid for or can they be used multiple times during the round as long as they have been played? What does "played cards accumulate" mean?
+
+Played cards accumulate" means that as you play more cards, they gather in your play area during the round. However, you can only use the effect of a card when it is played from your hand. Once played, the card stays in the play area but cannot be used again until the round ends and the cards are shuffled into the bottom of your deck. According to the rules, "played cards stay in the play area during the whole round" and do not get reshuffled to form a new draw deck if your deck becomes empty.
+
 [idol-slot-effects-and-trading-coins-for-jewels-onc](https://boardgamegeek.com/thread/2576607/idol-slot-effects-and-trading-coins-for-jewels-onc)
+
+> When activating the idol slot effect and trading coins for jewels, can you only trade one coin for one jewel or can you trade several this way during this idol slot activation?
+
+You can only trade one coin for one jewel when activating the idol slot effect. This is similar to the limitation where you can only gain two tablets from one spot. If multiple coins could be traded for jewels in one action, it would create an imbalance in the game. Therefore, trading three coins for three jewels in a single activation would be considered overpowered.
 
 [question-on-timing-of-free-actions](https://boardgamegeek.com/thread/2627376/question-on-timing-of-free-actions)
 
+> Can I use a free action to obtain tablets after advancing up the research track and before using the bonus tile effect?
+
+Yes, you can use the free action to obtain tablets before the bonus tile goes into effect. According to the rulebook, Research, on page 14: 
+
+4. Gain the results of your research:
+
+"You are allowed to resolve the row’s effect before using the bonus tile if you want."
+
+This means that you can draw a card, play it for the free action, and then resolve the bonus tile afterward. Each step in the main action can be treated as separate, allowing you to interject a free action between them, as confirmed under *Effects*, on page 24 of the rulebook:
+
+"The lightening bolt icon denotes that the effect does not count as your main action for the turn. You can play as many free actions as you want before, after, and even during your main action."
+
 [ancient-winecoconutflask](https://boardgamegeek.com/thread/2608087/ancient-winecoconutflask)
+
+> If I use the Ancient Wine or Coconut Flask, which are main actions, can I activate an assistant whose effect is also a main action?
+
+An assistant is an assistant, regardless of whether its effect is a free action or not. The rules state that using the Wine/Flask ability (thus using an assistant) is your main action.
+
+> Can the effect of an assistant be used for any assistant in the three stacks, or only those on the tops of the stacks?
+
+The card states: “Use the effect on the gold/silver side of one available assistant on the supply board.” The bottom example on page 15 of the rulebook explains: “Blue gets to choose one of the 3 assistants available on the supply board.” Furthermore, page 16 states: “When you move your notebook to a row with this (assistants) symbol, choose one of the assistants available on the supply board. (Usually, there are 3; however, some of the stacks might be empty later in the game.)” Note: Assistants not on top are kept hidden so that no one knows what they are until the assistant above them has been taken.
+
+> If buying the Ancient Wine, can it be used immediately to copy a non-free action assistant for a discount on another artifact?
+
+Yes, you can use it immediately. As explained on the backside of the rulebook Page 24, below Action Effects, it states: “You may immediately buy an artifact or item from the card row. The price is reduced by the amount indicated.”
+
+> Can travel icons on available assistants be used to dig or discover a new site after playing Ancient Wine or Coconut Flask?
+
+To dig or discover a new site, you need to perform a dig or discover action. Merely having a travel icon does not equate to having a dig or discover action. An assistant that gives you a travel icon is not the same as an assistant that gives you a dig/discover action.
 
 [upgrade-item-received-on-site](https://boardgamegeek.com/thread/2779671/upgrade-item-received-on-site)
 
 [pending-use-of-idol-tiles-and-research-bonus-tiles](https://boardgamegeek.com/thread/2659982/pending-use-of-idol-tiles-and-research-bonus-tiles)
 
+> Can I save the effects of idol tiles and research bonus tiles for later use if I don't have the resources to use them immediately?
+
+No, you cannot save the effects of these tiles for later. According to the rules, when you gain an idol or a research bonus tile, you must resolve its effect immediately. The rulebook states:
+
+- Discovery Rules (Page 10): "Take the idol. Immediately resolve the idol's effect."
+- Research Rules (Page 14): "If the space has a face-up research bonus tile, immediately gain the depicted bonus and remove the bonus tile from the game."
+
+Thus, if you receive an idol or a bonus tile and you don't have the necessary resources to use the effect, you will lose the opportunity to utilize that effect. You cannot save it for a future turn.
+
 [do-you-flip-level-ii-idols-for-the-bonus-upon-acqu](https://boardgamegeek.com/thread/2802284/do-you-flip-level-ii-idols-for-the-bonus-upon-acqu)
+
+> There's a face up idol and a face down idol at each level II site. After exploring the site and getting the two idol tiles, does the face down one remain face down, or do we get the unknown bonus and then flip it face down?
+
+No, you only receive the bonus from the face-up idol immediately. According to the rulebook, *To Discover a New Site* on Page 10:
+
+"2. Take the idol. Immediately resolve the idol’s effect. If the site has two idols, you take them both, but use only the effect of the face-up one."
+
+This means that after exploring a Level II site and obtaining both idols, you will only use the effect of the face-up idol and must resolve that effect immediately. The face-down idol remains face-down and does not provide any bonus at that moment. If you do not have the necessary resources to utilize the face-up idol's effect, that effect is forfeited.
 
 [fight-the-monster](https://boardgamegeek.com/thread/3237502/fight-the-monster)
 
+> When "fighting" a monster (or taming a guardian) can I exchange my transport cost (like 1 gold and 1 compass) for 3 gold instead?
+
+Yes, you can exchange resources in that manner. According to the rules on page 9 under the section "Hiring a Pilot," you can always pay 2 gold to represent an airplane icon. This means if you need to pay a cost that includes an airplane icon, you can choose to pay 2 gold instead of using the necessary resource.
+
 [research-track-idol-cost](https://boardgamegeek.com/thread/2744477/research-track-idol-cost)
+
+> The fourth step of the Research track seems to require the sale of an idol. Can I sell an idol that I have already fixed in a slot for bonus resources?
+
+No, you cannot sell an idol that is fixed in a slot, as the rules for the Snake Temple explain:
+
+"To advance a research token across this bridge, you must pay 1 idol. The idol must come from your supply crates – it can’t be one of those in a slot. Remove the idol tile from the game." (Rulebook Page 19)
 
 [can-you-buy-more-than-one-itemartifact-from-the-ca](https://boardgamegeek.com/thread/2647513/can-you-buy-more-than-one-itemartifact-from-the-ca)
 
+> Can you buy more than one item or artifact from the card row in one turn?
+
+No, you can only buy one card (item or artifact) per turn. Buying a card is considered your main action for that turn. As stated in the rulebook, you can perform only one main action per turn, which includes actions like buying a card, researching, or discovering a site. You can, however, buy additional cards during your subsequent turns in the same round.
+
 [solo-and-site-tiles-bonuses](https://boardgamegeek.com/thread/3062463/solo-and-site-tiles-bonuses)
+
+> In solo mode, do the bot's location tiles give it any bonuses, like free items or card draws, when discovering or digging in those sites?
+
+The only resource the bot gets from the sites are the idols (if it's discovering a new site); nothing else. The bot doesn't get any resources from the idols either.
 
