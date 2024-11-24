@@ -522,7 +522,7 @@ Assistants have various effects. If the effect is a free action, you have the op
 #### Using Assistants (Page 16)
 
 To use your assistant, turn it sideways, as shown. A sideways assistant is **exhausted** and not available for use.
-> An image of an assitant card turned sideways
+> An image of an assistant card turned sideways.
 
 In general, you can use an assistant's effect only once per round. At the end of the round, all assistants are **refreshed** – turned right way up again.
 
@@ -544,11 +544,11 @@ When you move your notebook to a row with this symbol, **upgrade one of your ass
 
 #### ASSISTANTS HAVE A VARIETY OF EFFECTS: (Page 16)
 
-> Image of an assitant card with a lightning bolt in the upper left corner and a coin / airplane effect
+> Image of an assistant card with a lightning bolt in the upper left corner and a coin / airplane effect
 
 Some assistants offer a choice of effects. As a free action, you can use this assistant to get a (Coin icon). Alternatively, you can use it to get a (Plane icon).
 
-> Image of an assitant card with a -1 coin / -1 compass effect
+> Image of an assistant card with a -1 coin / -1 compass effect
 
 This assistant allows you to buy an artifact or an item with a discount. The discount is 1 on this side and 2 on the upgraded side.
 
