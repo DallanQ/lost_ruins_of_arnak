@@ -4,7 +4,7 @@
 
 Use the side with the **Bird Temple** for your first game.
 
-> Image of Bird Temple: A red temple shaped like a bird, with a gaint rock mountain behind it.
+> Image of Bird Temple: A red temple shaped like a bird, with a giant rock mountain behind it.
 
 The Snake Temple side follows special rules which are explained on page 19.
 
@@ -507,7 +507,7 @@ Tiles in each stack are limited. You can't buy tiles from a stack that is empty.
 
 Assistants are people who have come to join your expedition. Each assistant has two levels – silver and gold. The gold side has the stronger effect. The research track will give you silver assistants when you move your notebook token to certain rows.
 
-> Image of an assitant card with a lightning bolt in the upper left indicating that using this assistant is a free action, the assistant's effect in the middle, and the ability that the assistant receives once upgraded at the bottom.
+> Image of an assistant card with a lightning bolt in the upper left indicating that using this assistant is a free action, the assistant's effect in the middle, and the ability that the assistant receives once upgraded at the bottom.
 
 #### Recruiting Assistants (Page 16)
 
