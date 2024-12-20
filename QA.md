@@ -237,25 +237,103 @@ Or in the case of the Giant Ant guardian, I must spend Boots specifically?
 
 Yes. You can always sub the other travel icons for boots, including for guardians (and of course planes for cars/boats as well).
 
+----
+page 9
+
+You can always pay a cost by spending a **higher travel value.** This travel hierarchy is also on your quick reference sheet.
+
+- (Airplane icon) *pays for anything.*
+
+- (Motorbike icon) *cannot pay for (Ship icon) and vice versa.*
+
+- *Any travel value pays for* (Icon with a single boot.)
+
+----
+page 9
+
+You can always spend two coins to generate a plane which can be used to pay for any travel icon.
+
 [general-queries](https://boardgamegeek.com/thread/2612454/general-queries)
 
 >  If the assistants effect is used for its travel value to place a worker, does this count as a main action even if that assistant is an extra (lightning symbol) action? If not, then in what theory could you move two workers to, two different sites on one turn.
 
 Yes, the icon generation is a free action; the worker placement is not. Think of travel icons as resources. Generating them is a free action since any unused travel resources are always lost at the end of your turn, but worker placement itself is a main action.
 
+----
+page 16
+
+Assistants have various effects. If the effect is a free action, you have the option to use it immediately, or you can save it for later.
+
+----
+page 23
+
+During your turn, you may perform any number of free actions before, during, or after your main action. You may have the following free actions available:
+
+ - All card effects marked with the (Icon featuring a lightening bolt) symbol are free actions.
+
+----
+page 8
+
+You always perform exactly **one main action** per turn.
+
+----
+page 9
+
+As your main action for your turn, you can send one of your archaeologists to dig at any of the 5 (Tent) sites. You will also be able to dig at **I** and **II** sites after they have been discovered.
+
 > The Aeroplane's card 'effect' allows the player to move to a site with a reduction of one aeroplane travel value. Does this mean that when played, you can still play another card for its travel value in order to place a worker on a site, effectively using two main actions?
 
 Yes, you can use an additional travel icon if needed to meet the cost. The rulebook (page 24) states: “The effects below allow you to perform an action. Normally, it would be the main action of your turn, but here it is considered simply part of the effect. You may immediately take a Dig at a Site or Discover a New Site action, if you have an archaeologist on your player board. The effect may specify special benefits or limitations."
 
+----
+page 8
+
+**You can play a card either for its travel value or its effect but not both.**
+
+----
+page 8
+
+You always perform exactly **one main action** per turn.
+
+----
+page 9
+
+As your main action for your turn, you can send one of your archaeologists to dig at any of the 5 (Tent) sites. You will also be able to dig at **I** and **II** sites after they have been discovered.
+
+----
+page 24
+
+The effects below allow you to perform an action. Normally it would be the main action of your turn, but here it is considered simply part of the effect.
+
 > Passing is considered a main action, but some cards let you gain benefits (like Compasses) when you pass. Does this mean you’re using two main actions on one turn?
 
 No, this is treated as a single combined action. The rulebook states, “pass to gain: To gain the benefit, you must pass. You will get no more turns for the remainder of the round.” This means that using the card’s effect to gain compasses when you pass does not allow you to take any further actions for the rest of the round; the turn ends immediately after using the card.
+
+----
+page 17
+
+On your turn, you can **choose to pass** – inform the other players that you will take no more turns this round. Passing counts as your main action for the turn.
+
+----
+page 24
+
+**Pass to gain:** To gain the benefit, you must pass. You will get no more turns for the remainder of the round.
+
+----
+page 8
+
+You always perform exactly **one main action** per turn.
 
 [hidden-totems](https://boardgamegeek.com/thread/2577312/hidden-totems)
 
 > If I discover a place where I get an open and an hidden totem, do I get the effects of both or only for the open one?
 
 You only get the effect of the open totem. According to the rulebook (page 10), when discovering a new site with two totems, “take them both, but use only the effect of the face-up one.” You still gain endgame points for both totems, but only the open one provides an immediate effect.
+
+----
+page 10
+
+2. **Take the idol.** Immediately resolve the idol's effect. If the site has two idols, you take them both, but use only the effect of the face-up one. Keep your idols on your player board face down on the illustrated supply crates.
 
 [solo-dig-at-site-look-for-any-site-offering-the-re](https://boardgamegeek.com/thread/3049980/solo-dig-at-site-look-for-any-site-offering-the-re)
 
@@ -273,11 +351,32 @@ If the multiple sites are on the same row, then use the arrow on the Rival actio
 
 And if the action stack is empty, you use the tile on the bottom of the used action tile stack.
 
+----
+page 20
+
+Your rival wants to keep you from getting the depicted resource. Look for a site offering that resource and put a rival archaeologist on the space there. (If all such spaces are occupied, your rival does nothing.)
+
+If there are multiple such spaces, your rival chooses one with the following priorities:
+
+ - A site in a higher row is preferred over a site in a lower row.
+
+ - Between sites in the same row, your rival prefers the site farther on the left or the right, as determined by the decision arrow.
+
 [guardians-crown-artifact-card](https://boardgamegeek.com/thread/3027659/guardians-crown-artifact-card)
 
 > When using the Guardian's Crown artifact card, if a guardian is moved to a tent (camping) site. Does it stay there until someone removes it? Can guardians normally be placed on tent sites?
 
 Yes, the guardian stays on the tent site until it is removed by a player, following the standard rules for guardians. While guardians typically do not appear on tent sites (since they are usually placed when new sites are discovered, which are not tent sites), the Guardian’s Crown artifact card is an exception that explicitly allows a guardian to be placed on a tent site.
+
+----
+page 22
+
+This artifact cannot move a guardian to a site that has not been discovered. An unoccupied site is one with no archaeologists. If any of the spaces on a site is occupied, the entire site is considered occupied.
+
+----
+page 11
+
+Guardians remain on the board until they are overcome. **They do not prevent archaeologists from digging at their sites.**
 
 [using-an-artifact-for-its-travel-icon-on-purchase](https://boardgamegeek.com/thread/2569690/using-an-artifact-for-its-travel-icon-on-purchase)
 
@@ -285,17 +384,44 @@ Yes, the guardian stays on the tent site until it is removed by a player, follow
 
 No, when you buy an artifact, you have the option to immediately resolve only its effect, ignoring the usual cost (tablet cost) for this initial play. According to the rulebook on page 8, "You can play a card either for its travel value or its effect but not both." After purchasing, the artifact's effect (bottom half) is the only option available for immediate use, as clarified on page 12 which states that "When you buy an artifact, you get to resolve its effect. That effect might be another action, like sending an archaeologist to dig at a site. All this is considered to be part of your main action for the turn." Therefore, the travel icon (top left corner) cannot be used when an artifact is initially acquired.
 
+----
+page 8
+
+**You can play a card either for its travel value or its effect but not both.**
+
+----
+page 12
+
+**Note:** When you buy an artifact, you get to resolve its effect. That effect might be another action, like sending an archaeologist to dig at a site. All this is considered to be part of your main action for the turn.
+
 [what-do-gold-on-coconut-flask-artifact-represent](https://boardgamegeek.com/thread/2929477/what-do-gold-on-coconut-flask-artifact-represent)
 
 > What do the gold coins on the Coconut Flask artifact represent?
 
 The gold coins on the Coconut Flask artifact indicate that you earn two gold after activating the card, not that you need to pay them. This is confirmed by the rules and iconography used in the game. Unlike other cards that explicitly indicate a cost with a brown triangle, the Coconut Flask does not have such a symbol, meaning the coins are a reward rather than a payment.
 
+----
+page 22
+
+The artifact's effect counts as your main action for the turn, even if the assistant's effect is a free action. The assistant is not exhausted after being used on the supply board. If you use this to generate a travel value, that value is wasted unless you use it in a free action before the end of your turn. Note that the effect cannot be applied to an assistant on the assistant rescue space of the Snake Temple research track.
+
 [2-newbie-questions](https://boardgamegeek.com/thread/2664109/2-newbie-questions)
 
 > When placing a worker on camp sites, do you also place a guardian? Or is the guardian only for when discovering level 1 and 2 sites for the first time?
 
 No, you do not place a guardian on camp sites. Guardians only appear when a player discovers a new site (level 1 or 2) for the first time. They remain on the board until they are overcome but do not affect the placement of workers at camp sites.
+
+----
+page 9
+
+As your main action for your turn, you can send one of your archaeologists to dig at any of the 5 (Tent) sites. You will also be able to dig at **I** and **II** sites after they have been discovered.
+
+----
+page 10
+
+3. **Discover the site.** Take the top tile from the stack that matches the site – **I** or **II**. Place it on the board face up. The site has now been discovered and you **immediately resolve its effect**.
+
+4. **Awaken the guardian.** Draw the top tile from the guardian stack and place it face up on the site tile.
 
 > What are the reserve tiles used for?
 
@@ -308,6 +434,19 @@ instead.
 In playtesting, we needed these tiles only in extremely rare situations. Depending on your play style, your 
 group might never need them
 
+----
+page 23
+
+The ×3 multiplier tiles are intended for use if you are close to running out of tokens. Each token on the tile counts as 3. Tokens on the supply board are not intended to be limited.
+
+An image of a card featuring the ×3 symbol at the bottom.
+
+The other side of the tile is a fear tile. If you are supposed to take a *Fear* card when the *Fear* deck is empty, you take a fear tile instead. It will be worth -2 points during final scoring. Keep the fear tile in your play area. If you have a chance to exile a card from your play area, you may exile the fear tile instead.
+
+An image of the *Fear* Card with the -2 symbol at the bottom.
+
+In playtesting, we needed these tiles only in extremely rare situations. Depending on your play style, your group might never need them.
+
 [using-an-artifact-card-for-its-travel-icons-pay-a](https://boardgamegeek.com/thread/2668433/using-an-artifact-card-for-its-travel-icons-pay-a)
 
 > If you use an artifact from your hand for its travel icons, do you still pay a tablet? Or is the tablet payment only, if you use the card's ability?
@@ -317,6 +456,21 @@ You do not pay a tablet when using an artifact card for its travel icons. The ta
 Therefore, you can use the artifact's travel icons without any additional cost.
 
 This distinction allows players to utilize early artifacts effectively for movement, even if they do not have tablets available to activate the card's ability.
+
+----
+page 8
+
+**You can play a card either for its travel value or its effect but not both.**
+
+----
+page 9
+
+As you would expect, you can pay a cost of (Icon representing a single boot) by spending a card with the (Icon representing a single boot) icon – take the card from your hand, and put it face up into your play area, ignoring its effect. You can also pay with higher travel values, as shown in the **Travel Hierarchy** on this page.
+
+----
+page 13
+
+When you play an artifact, you also have to pay a special (A tablet icon with a rightward triangle) cost, as explained in the box on this page. That rule does not apply to items.
 
 [is-it-always-free-to-spend-the-travel-value-of-a-c](https://boardgamegeek.com/thread/3159569/is-it-always-free-to-spend-the-travel-value-of-a-c)
 
@@ -334,6 +488,44 @@ According to the rulebook in page 13:
 
 "Play a Card" involves taking a card from your hand and placing it face up into your play area (unless you get a chance to exile it). This action is distinct from using a card for its travel symbols.
 
+----
+page 8
+
+**You can play a card either for its travel value or its effect but not both.**
+
+----
+page 9
+
+You can always pay a cost by spending a **higher travel value.**
+
+----
+page 9
+
+As you would expect, you can pay a cost of (Icon representing a single boot) by spending a card with the (Icon representing a single boot) icon – take the card from your hand, and put it face up into your play area, ignoring its effect.
+
+----
+page 9
+
+You can always spend two coins to generate a plane which can be used to pay for any travel icon
+
+----
+page 13
+
+1. **Play the card** from your hand face up into your play area.
+2. **Resolve the card's effect.**
+
+The card remains face up in your play area for the remainder of the round (Unless you get a chance to exile it, as explained below).
+
+----
+page 13
+
+**Reminder:** A card in hand can either be spent for its travel value or played for its effect. Not both.
+
+----
+page 8
+
+**You can play a card either for its travel value or its effect but not both.**
+
 [binoculars-card](https://boardgamegeek.com/thread/2638498/binoculars-card)
 
 > The Binoculars card allows you to activate any Level 1 site. If you have this card, can you activate a Level 1 site to reveal a guardian? If so, is that guardian your responsibility to defeat or receive a fear card?
@@ -344,6 +536,21 @@ Visiting an existing site doesn’t reveal a new guardian. Guardians only give a
 
 According to the rulebook, page 24: "When you activate a site, you use the site’s effect. You do not need an archaeologist there and other players’ archaeologists do not block you from activating the site." Therefore, using the Binoculars card does not involve defeating a guardian or receiving a *fear* card since you are only activating an already discovered site.
 
+----
+page 24
+
+**Activate a site:** When you activate a site, you use the site's effect. You do not need an archaeologist there and other players' archaeologists do not block you from activating the site, unless the card says otherwise. You do not pay any travel cost. You cannot activate a site that has not been discovered yet.
+
+----
+page 10
+
+The guardian does not affect you immediately. However, at the end of the round you will gain a *Fear* card when you take your archaeologist back from a site that has a guardian on it.
+
+----
+page 11
+
+Guardians remain on the board until they are overcome. **They do not prevent archaeologists from digging at their sites.**
+
 [does-flask-have-to-be-played-for-exile-bonus-or-ca](https://boardgamegeek.com/thread/2673668/does-flask-have-to-be-played-for-exile-bonus-or-ca)
 
 > Flask allows you to draw 3 cards when exiled. Do you have to play & consume the card (removing this card form your hand) to activate this ability? Or can you exile the card using another effect (i.e use the ship part of Flask to use a work placement action then exile it to get the 3 card draw)?
@@ -351,6 +558,26 @@ According to the rulebook, page 24: "When you activate a site, you use the site�
 It is not a passive effect that happens whenever the card is exiled. It is a part of the cost when you play the card, that you must also exile the card. If the card is not played from your hand for its effect, but you use it for travel icons instead, then nothing that is written on the card matters, it will not take effect.
 
 As stated in the rulebook, page 8: "You can play a card either for its travel value or for its effect but not both." Therefore, to get the card draw benefit, you must play the Flask from your hand.
+
+----
+page 8
+
+**You can play a card either for its travel value or its effect but not both.**
+
+----
+page 24
+
+**Exile this card to:** When you play the card for its effect, it goes to exile instead of your play area.
+
+----
+page 24
+
+- (Icon of a red X on a card) You may choose a card in your hand or in your play area and send it to exile (As explained on page 13).
+
+----
+page 13
+
+**Reminder:** A card in hand can either be spent for its travel value or played for its effect. Not both.
 
 [solo-discover-ii-when-all-iis-are-discovered](https://boardgamegeek.com/thread/3029273/solo-discover-ii-when-all-iis-are-discovered)
 
@@ -360,6 +587,25 @@ If the rival is supposed to discover a level II site, but all level II's are alr
 
 According to the rulebook, page 20: "If the situation makes the action impossible, your rival does nothing on that turn." There is no indication in the rules that allows for a downgrade to discovering a Level I site in this scenario. The action is strictly tied to whether Level I or Level II sites are available based on the round.
 
+----
+page 21
+
+Your rival discovers a **I** or **II** site, depending on the round. If there are multiple undiscovered sites:
+
+ - First narrow the choices down to one row. Among **I** sites, give preference to the bottom row.
+
+ - Then use the decision arrow to choose left or right.
+
+----
+page 20
+
+2. **Resolve the indicated action**. If the situation makes the action impossible, your rival does nothing on that turn.
+
+----
+page 20
+
+2. **Resolve the indicated action**. If the situation makes the action impossible, your rival does nothing on that turn.
+
 [quick-question-on-solo-ai](https://boardgamegeek.com/thread/2983485/quick-question-on-solo-ai)
 
 > When they draw the action tile where they acquire move up on the research track and gain an assistant, if they already have more than 2 (not that they even use the assistants), do they keep discarding the assistants from the supply pile?
@@ -368,6 +614,21 @@ The Rival doesn't slot assistants on their board, so I don't believe there is a 
 
 "Take the topmost assistant from the highest stack on the supply board. If stacks are tied, use the decision arrow. Remove the assistant from the game"
 
+----
+page 21
+
+Take the topmost assistant from the highest stack on the supply board. If stacks are tied, use the decision arrow. Remove the assistant from the game.
+
+----
+page 16
+
+**Note:** Assistants not on top are supposed to be kept hidden so that no one knows what they are until the assistant above them has been taken.
+
+----
+page 20
+
+Each rival action is like a player action, but the game focuses on the impacts that these actions have on you. **The rival expedition does not gain or spend resource tokens**. They never get Fear cards. However, they do collect points.
+
 [last-card-in-hand-is-fear-card](https://boardgamegeek.com/thread/2580130/last-card-in-hand-is-fear-card)
 
 > If I draw two fear cards and end up with one as my last card in play area and have already moved my explorers, do I have to just keep it until the next turn? Or can I use it to move one of my explorers a second time?
@@ -375,6 +636,21 @@ The Rival doesn't slot assistants on their board, so I don't believe there is a 
 You cannot use a *fear* card to move an archaeologist a second time. They stay put once placed, unless a card action lets you relocate them. You use the main action "Pass", put the card in your play area or not by carrying it over, and deal with it at end of round cleanup.
 
 According to the rulebook, page 17, it states that "Usually your hand will be empty. But if you have cards left, each card can be discarded to your play area or saved for the next round."
+
+----
+page 17
+
+2. Usually your hand will be empty. But if you have cards left, **each card can be discarded to your play area or saved for the next round.**
+
+----
+page 8
+
+A *Fear* card has no effect. However, it can be used for its (An icon depicting a single boot) travel value.
+
+----
+page 24
+
+**Relocate:** Without paying a travel cost, pick up one of your archaeologists that is already on a site and move it to an unoccupied space at a different site that has already been discovered. The effect might specify additional restrictions.
 
 [how-do-blocking-tiles-and-the-small-tent-symbol-wo](https://boardgamegeek.com/thread/2867008/how-do-blocking-tiles-and-the-small-tent-symbol-wo)
 
@@ -386,6 +662,35 @@ Those icons are literally used to randomize which spaces get the blocking token.
 
 Any card that activates a tent space only activates once. Dog for example: activate an unoccupied tent space. If you choose compasses, you’ll get two compasses whether or not there’s a blocking token there. One artifact (passage shell) lets you activate a tent space twice, but that’s the only exception. And my point is that the boot symbols and blocking tiles are irrelevant when activating these spaces.
 
+----
+page 4
+
+9. Some action spaces may need to be blocked depending on the number of players. Treat blocked spaces as though they were not printed on the board. They will be unavailable for the entire game.
+
+In a **four-player game**, do not use the blocking tiles. (This page illustrates a three-player game.)
+
+In a **three-player game**, block 3 (An icon featuring a pair of boots) spaces. Mix up the blocking tiles face down and flip over 3 at random. Each corresponds to one (An icon featuring a tent) site.
+
+----
+page 9
+
+1. **Pay the travel cost** depicted on the space to which you want to send your archaeologist. The space must be unoccupied. (That is, it must have no archaeologist figure on it, and in a 2- or 3-player game, it must have no blocking tile.)
+
+----
+page 9
+
+**Example:** *Red spends a card with a* (Icon depicting a single boot) *to send her archaeologist to the site illustrated here. She places her figure on the* (Icon depicting a single boot) *space and takes two* (iIcon representing tablets) *tokens. The next player to use the site this round will need to cover a cost of* (Icon representing a pair of boots)*. Even Red could do this, on a later turn, despite having one archaeologist already there. If both spaces are occupied, no one else can be sent to dig there this round.*
+
+----
+page 24
+
+**Activate a site:** When you activate a site, you use the site's effect. You do not need an archaeologist there and other players' archaeologists do not block you from activating the site, unless the card says otherwise. You do not pay any travel cost. You cannot activate a site that has not been discovered yet.
+
+----
+page 24
+
+**Relocate:** Without paying a travel cost, pick up one of your archaeologists that is already on a site and move it to an unoccupied space at a different site that has already been discovered. The effect might specify additional restrictions.
+
 > If a site has an Archeologist present and an empty slot, can you play dog there?
 
 If a site has an archeologist, then it is clearly not "an unoccupied site", which by definition according to the rulebook in page 24 states that "A site is unoccupied if no one has an archaeologist figure there. (Guardian tiles do not count as occupying a site.) An occupied site might still have an unoccupied space even though the site is considered “occupied”".
@@ -395,6 +700,28 @@ If a site has an archeologist, then it is clearly not "an unoccupied site", whic
 > The Artifact card Monkey Medallion says "Gain an item and place it on the top of your deck." Where do I get the item from? Do I take one from the available items in the row? Do I draw a random one from the deck? Or am I missing something else I should do?
 
 According to the rulebook, page 24, states that "When you gain an item, it means you do not pay the cost. Unless otherwise stated, this is identical to the Buy a Card action, except you skip the step in which the cost is paid." So you take it from the card row (available items), not from the deck. Now you are sure which card you'll draw next round, or when you play an appropriate card to take the just gained item. If you could draw from the deck, you'll (almost) never know what item you get.
+
+----
+page 24
+
+**Gain** (Icon of a hand trowel (Item)): When you gain an item, it means you do not pay the (Icon of a coin) cost. Unless otherwise otherwise stated, this is identical to the Buy a Card action, except you skip the step in which the cost is paid.
+
+----
+page 12
+
+You improve your deck by buying artifacts and items from the card row.
+
+----
+page 12
+
+4. **Refill the card row.**
+
+----
+page 12
+
+At the end of your turn, if the card row is missing a card, refill the row with a card of the same type:
+
+1. **Slide cards toward the moon staff** to make a space on the end.
 
 [do-you-get-site-effects-when-revisiting-site](https://boardgamegeek.com/thread/2636212/do-you-get-site-effects-when-revisiting-site)
 
