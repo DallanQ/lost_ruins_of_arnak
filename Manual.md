@@ -277,8 +277,9 @@ It's also possible that you have a card that gives you two icons all by itself. 
 
 #### Examples (Page 9)
 
-> Image of a ship icon on the left followed by ship, airplane, and two-coin icons all with green checkmarks indicating they can be used to pay for the ship travel, followed by carriage and boot icons with red X's indicating they cannot be used to pay for the thip travel.
-> Image of a two-carriage icon on the left followed by two-airplane, two carriage, an airplane and a carriage, a carriage and two coins, and two two-coin icons all with green checkmarks indicating they can be used to pay for the two-carriage travel, follwed by a two-ship icon with a red X indicating it cannot be used to pay for the two-carriage travel.
+> Image of a ship icon on the left followed by ship, airplane, and two-coin icons all with green checkmarks indicating they can be used to pay for the ship travel, followed by carriage and boot icons with red X's indicating they cannot be used to pay for the ship travel.
+
+> Image of a two-carriage icon on the left followed by two-airplane, two carriage, an airplane and a carriage, a carriage and two coins, and two two-coin icons all with green checkmarks indicating they can be used to pay for the two-carriage travel, followed by a two-ship icon with a red X indicating it cannot be used to pay for the two-carriage travel.
 
 ## Discover a New Site (Page 10)
 
@@ -360,7 +361,7 @@ You improve your deck by buying artifacts and items from the card row.
 
 The card row is divided into two parts by the moon staff:
 
-> Image of a board with the artifact deck at the upper left, the item deck at the upper left, the moon staff in the middle indicating the current round, an artifact card in the lewer left with the cost to buy an artifact at the bottom of the artifact, and item cards along the bottom with points at the end of the game in purple in the bottom right corner of each card, and the cost to buy in the bottom left corner of each card.
+> Image of a board with the artifact deck at the upper left, the item deck at the upper left, the moon staff in the middle indicating the current round, an artifact card in the lower left with the cost to buy an artifact at the bottom of the artifact, and item cards along the bottom with points at the end of the game in purple in the bottom right corner of each card, and the cost to buy in the bottom left corner of each card.
 
 **Artifacts are on the left; items are on the right.** Each round, the moon staff moves one space to the right, so each round has more artifacts and fewer items. As the expeditions explore deeper and deeper into the heart of the island, they discover more artifacts, while diminishing the support they can get from the mainland.
 
@@ -965,7 +966,7 @@ Many Effects simply depict the tokens you gain:
 
  - (Icons of one *Fear* card, one tablet and one jewel) Gain a *Fear* card and the indicated tokens. You must take a Fear card from the board and put it face up in your play area. (Ignore its travel value.) If no *Fear* cards are available, take a fear tile, as explained on page 23.
 
- - (Icons of a compass and a jewel with right-facing triangle in bewteen them) You may pay the cost on the left to gain the benefit on the right. If you cannot pay the cost or do not wish to, then you do not get the benefit.
+ - (Icons of a compass and a jewel with right-facing triangle in between them) You may pay the cost on the left to gain the benefit on the right. If you cannot pay the cost or do not wish to, then you do not get the benefit.
 
 - (Icons of a coin, a right-facing triangle a slash in between an arrowhead and a jewel) Pay the cost to choose one of the two tokens.
 
